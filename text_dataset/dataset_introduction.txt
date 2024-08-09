@@ -1,1862 +1,307 @@
-Module 0: Introduction
-
 This training course contains 7 modules
-Module 0: introduction
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-
-August Robotics is a global leader in mobile robotics
-Module 0: introduction
-United States
-Key customer service hub
-Europe
-Key customer service hub
-Asia
-Commercial and robot development centre
-2017
-August Robotics founded
-Mid 2019
-First Lionel commercially deployed in Germany
-Aug 2022
-Lionel made its 100,000th mark
-End 2022
-Launch of lease offering – users can set up and operate Lionel without needing August Robotics’ engineers on-site
-
-Global footprint and dedicated in-market support
-Pioneer with years of experience
-
-
+Module 0: Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
+Module 1: Map Upload: Walking through how to use the User Portal to upload, process and edit your maps
+Module 2: On-Site Preparation: Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
+Module 3: Equipment Set-Up: Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
+Module 4: Job Supervision: Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
+Module 5: Clean Up: Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
+Module 6: Proactive Care & Troubleshooting: Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods
+August Robotics is a global leader in mobile robotics.
+United States: Key customer service hub; Europe: Key customer service hub; Asia: Commercial and robot development centre
+2017: August Robotics founded; Mid 2019: First Lionel commercially deployed in Germany; Aug 2022: Lionel made its 100,000th mark; End 2022: Launch of lease offering – users can set up and operate Lionel without needing August Robotics’ engineers on-site
 Our mission is to automate dirty, dangerous and dull jobs with user-friendly and affordable robots
-
-Lionel is August Robotics’ flagship solution
-Module 0: introduction
-Fast
-Accurate
-Flexible
-Autonomous
-A single robot makes an average of 80 marks per hour, allowing you to speed up floor marking and the exhibition set-up process
+Lionel is August Robotics’ flagship solution. A single robot makes an average of 80 marks per hour, allowing you to speed up floor marking and the exhibition set-up process
 Lionel marks with sub-5mm precision and without the accumulation of errors, resulting in a hassle-free perfect layout
-Lionel is purpose-built for exhibition layouts and can mark anything you need – booth corners, numbers, text and other symbols
-Once Lionel starts working, it is fully autonomous and requires minimal supervision, freeing you up for other activities
-
-Easy
+Lionel is purpose-built for exhibition layouts and can mark anything you need – booth corners, numbers, text and other symbols. Once Lionel starts working, it is fully autonomous and requires minimal supervision, freeing you up for other activities
 Lionel can be used by anyone – no robotics or engineering experience is required
-
 Lionel is the smarter way to mark exhibition floors
-
-Module 1: Overview
-Lionel Training Course
-Last  | Go to the User Portal to download the latest version
-Confidential – do not distribute
-
-Where are we?
-Module 1: OVERVIEW
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-In the office
-
-On-site
-
-
-10:
-The Lionel system takes your digital floor plan…
-Module 1: OVERVIEW
-
-11:
-… and marks the essential information on the physical floor
-Module 1: OVERVIEW
-Lionel can mark anything, as its spray mechanism has a full range of motion. The most common marks
-Booth corners
-Booth numbers
-Electricity marks
-Other
-
-12:
-How does the system work?
-Module 1: OVERVIEW
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-Open the Map Server
-
-13:
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-Open the Map Server
-How does the system work on-site?
-Module 1: OVERVIEW
-We put down two Reference Points in every hall. 
-
-The points will typically be close to a prominent feature in the hall (such as a wall or a pillar), and will be physically marked before the job day (e.g. with a nail in the floor)
-
+The Lionel system takes your digital floor plan and marks the essential information on the physical floor
+Lionel can mark anything, as its spray mechanism has a full range of motion. The most common marks: Booth corners, Booth numbers, Electricity marks, and Rigging points
+How does the system work? Determine Reference Points for the hall. Set up the two Reference Beacons. Set up and calibrate the Guiding Station. Set up and calibrate the Lionel robot. Run the job. Open the Map Server
+How does the system work on-site? We put down two Reference Points in every hall. The points will typically be close to a prominent feature in the hall (such as a wall or a pillar), and will be physically marked before the job day (e.g. with a nail in the floor)
 The Reference Points allow us to “match” the digital plan with the physical environment
-Reference Point
-
-Reference Point
-We will cover the detailed equipment set-up process in detail in Module 4
-
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-
-Open the Map Server
-How does the system work on-site?
-Module 1: OVERVIEW
 On the job day, the user opens the Map Server and its Tablet, selects the show to mark, and follows the instructions on the Tablet to set up the equipment
-Reference Point
-
-Reference Point
-We will cover the detailed equipment set-up process in detail in Module 4
-
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-Open the Map Server
-How does the system work on-site?
-Module 1: OVERVIEW
-Reference Beacon
-On the job day, a Reference Beacon is placed over each Reference Point
-Reference Point
-Reference Point
-Reference Beacon
-We will cover the detailed equipment set-up process in detail in Module 4
-
-16:
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-Open the Map Server
-How does the system work on-site?
-Module 1: OVERVIEW
-Guiding Station
-
-
-Then, a Guiding Station is placed in the hall, somewhere where it has line of sight to both Reference Beacons
-
-By measuring its distance to the Reference Beacons, the Guiding Station can determine its position
-
+Then, a Guiding Station is placed in the hall, somewhere where it has line of sight to both Reference Beacons. By measuring its distance to the Reference Beacons, the Guiding Station can determine its position
 After this, the Reference Beacons are no longer required
-Reference Beacon
-Reference Point
-Reference Point
-Reference Beacon
-We will cover the detailed equipment set-up process in detail in Module 4
-
-17:
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-Open the Map Server
-How does the system work on-site?
-Module 1: OVERVIEW
-
-
 Then, the Lionel robot is set up and placed on the floor, somewhere where it has line of sight to the Guiding Station
-
 By measuring its distance and rotational angle to the Guiding Station, the Lionel robot can determine its position
-Lionel Robot
-Guiding Station
-We will cover the detailed equipment set-up process in detail in Module 4
-
-18:
-Determine Reference Points for the hall
-Set up the two Reference Beacons
-Set up and calibrate the Guiding Station
-Set up and calibrate the Lionel robot
-Run the job
-Open the Map Server
-How does the system work on-site?
-Module 1: OVERVIEW
-
 Lionel can now start marking marks
-
 The Guiding Station acts as a lighthouse for Lionel throughout the job. Lionel communicates with the Guiding Station to ensure its position is accurate before placing each mark
-
-Lionel Robot
-Guiding Station
-We will cover the detailed equipment set-up process in detail in module 4
-
-19:
-Appendix: The four key pieces of hardware
-Module 1: OVERVIEW
-
-20:
+User Portal: A system that the CAD team uses before the day of the job to upload the maps and have them automatically processed for the Lionel system
 The Lionel system includes hardware and software components
-Module 1: OVERVIEW
-Software
-Hardware
-
-
-Lionel Robot
-Guiding Station
-Reference Beacons
-Other Equipment
-Map Server Interface
-User Portal
-Map Server Box
-
-21:
-User Portal
-A system that the CAD team uses before the day of the job to upload the maps and have them automatically processed for the Lionel system 
-The Lionel system includes hardware and software components
-Module 1: OVERVIEW
-Software
-Hardware
-
-
-Lionel Robot
-Guiding Station
-Reference Beacons
-Other Equipment
-Map Server Box
-Four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls
-A stationary piece of equipment that helps the robot to understand its location in the hall to place marks accurately
-Two beacons placed on reference points in the hall during the set-up process to allow the Guiding Station to calculate its position
-Other physical items required on-site, such as batteries, paint preparation materials and maintenance kit
-A physical box that contains a PC (the “brain” of the system), routers, and a tablet with the Map Server Interface; allows on-site operators to set up and run the job
-Map Server Interface
-A system that the CAD team and on-site operators use to retrieve maps, set up the physical equipment and run the floor marking job 
-This module will introduce the hardware of the Lionel system. Later modules will walk through how to set up the software and hardware
-
-22:
-Lionel Robot: overview of parts
-Module 1: OVERVIEW
-Lionel is a four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls
-Camera Beacon
-to enable the Guiding Station to locate Lionel and guide it to the accurate position
-Multiple Sensors
-for intelligent and safe navigation in busy environments
-Mobile Base
-with omnidirectional wheels for flexible and agile movement
-Mesh Router
-to enable the robot to communicate with the Map Server
-Spray Marking Mechanism
-that can make any type of mark on any type of ground surface
-Emergency Stop
-to stop the robot in emergency situations
-AI Powered Marking Camera
-to validate the quality of marks
-Maintenance Door
-to enable reactive troubleshooting and proactive maintenance
-Paint Tank
-to store the paint required for marking
-Battery holder
-to connect and hold pre-charged batteries
-
-
-23:
-Lionel Robot: the parts you interact with day-to-day
-Module 1: OVERVIEW
-Camera Beacon
-to enable the Guiding Station to locate Lionel and guide it to the accurate position
-Multiple Sensors
-for intelligent and safe navigation in busy environments
-Mobile Base
-with omnidirectional wheels for flexible and agile movement
-Mesh Router
-to enable the robot to communicate with the Map Server
-Spray Marking Mechanism
-that can make any type of mark on any type of ground surface
-Emergency Stop
-to stop the robot in emergency situations
-AI Powered Marking Camera
-to validate the quality of marks
-Maintenance Door
-to enable reactive troubleshooting and proactive maintenance
-Paint Tank
-to store the paint required for marking
-Battery holder
-to connect and hold pre-charged batteries
-
-
-24:
-The Guiding Station
-Module 1: OVERVIEW
-The Guiding Station enables Lionel to understand and adjust its location 
-The Guiding Station is placed in a fixed and known location in the hall
-
+Hardware: Lionel Robot, Guiding Station, Reference Beacons, Other Equipment, Map Server Box
+Lionel Robot: Four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls
+Guiding Station: A stationary piece of equipment that helps the robot to understand its location in the hall to place marks accurately
+Reference Beacons: Two beacons placed on reference points in the hall during the set-up process to allow the Guiding Station to calculate its position
+Other Equipment: Other physical items required on-site, such as batteries, paint preparation materials and maintenance kit
+Map Server Box: A physical box that contains a PC (the “brain” of the system), routers, and a tablet with the Map Server Interface; allows on-site operators to set up and run the job
+Map Server Interface: A system that the CAD team and on-site operators use to retrieve maps, set up the physical equipment and run the floor marking job. This module will introduce the hardware of the Lionel system. Later modules will walk through how to set up the software and hardware
+Lionel is a four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls.
+Camera Beacon: to enable the Guiding Station to locate Lionel and guide it to the accurate position;
+Multiple Sensors: for intelligent and safe navigation in busy environments;
+Mobile Base: with omnidirectional wheels for flexible and agile movement;
+Mesh Router: to enable the robot to communicate with the Map Server;
+Spray Marking Mechanism: that can make any type of mark on any type of ground surface;
+Emergency Stop: to stop the robot in emergency situations;
+AI Powered Marking Camera: to validate the quality of marks
+Maintenance Door: to enable reactive troubleshooting and proactive maintenance;
+Paint Tank: to store the paint required for marking;
+Battery holder: to connect and hold pre-charged batteries;
+The Guiding Station enables Lionel to understand and adjust its location. The Guiding Station is placed in a fixed and known location in the hall
 As the robot moves around the hall, the Guiding Station uses its camera beacon and laser to ascertain Lionel’s location
-
 This enables Lionel to understand and adjust its position, and to place marks with high accuracy
-Motor
-E-Stop
-Cameras
-Mesh router (not visible)
-Camera beacon
-Levelling bubble
-Power switch
-
-
-25:
-The Reference Beacons
-Module 1: OVERVIEW
-The two Reference Beacons enable the Guiding Station to calculate its position
-During the set-up process, each Reference Beacon is precisely placed in a pre-defined reference location in the hall
-
+The two Reference Beacons enable the Guiding Station to calculate its position. During the set-up process, each Reference Beacon is precisely placed in a pre-defined reference location in the hall
 The Guiding Station will calculate its position relative to the Reference Beacons, and thereby calculate its own position in the hall
-
 After the set-up process, the Reference Beacons can be removed, unless additional Guiding Stations need to be added
-Levelling bubble
-LED beacon
-Laser light (not visible)
-Battery
-Levelling screws
-Red laser switch
-
-26:
-The Map Server Box
-Module 1: OVERVIEW
-The Map Server is the “brain” of the Lionel system and connects all the components of the system
+The Map Server Box: The Map Server is the “brain” of the Lionel system and connects all the components of the system
 The Map Server Box refers to a physical black box (shown here)
-Tablet with Map Server Interface
-that on-site operators use to access the Map Server Interface
-Mesh Routers
-that are connected to the robot and Guiding Station to establish communication within the system
-Map Server
-the “brain” that controls the equipment in the system
-Power switch
-to turn on the Map Server box
-Accessory Bag
-with seven cords and accessories
-
-27:
-Appendix: Lionel Robot Technical Specifications
-Module 1: OVERVIEW
-Weight
-Footprint
-Localisation Accuracy
-Battery life
-Marking method
-Payload
-Temperature
-48 kg
-82 cm long, 40 cm wide, 113 cm tall
-+ / - 5mm accuracy (default accuracy)
-10 hours (additional batteries can be pre-charged)
-Either permanent or washable paint
-1L of paint
-Can work between 0 and 40 degrees Celsius
-Speed
-Maximum speed 1.2 m/s
-Lionel is a four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls
-Battery
-24V voltage, 30Ah capacity
-Battery charging time
-5 hours
-Updated Jul 2023
-Updated again March 2024
-
-28:
-Appendix: Guiding Station Technical Specifications
-Module 1: OVERVIEW
-21 kg
-38 cm long, 38 cm wide, 120 cm tall
-+ / - 5mm accuracy (default accuracy)
-12 hours (additional batteries can be pre-charged)
-Can work between 0 and 40 degrees Celsius
-Optimal range within 60m, maximum range 80m
-The Guiding Station enables Lionel to understand and adjust its location 
-Weight
-Footprint
-Localisation Accuracy
-Battery life
-Temperature
-Localisation Range
-Battery
-24V voltage, 30Ah capacity
-Battery charging time
-5 hours
-Updated Jul 2023
-Updated again March 2024
-
-29:
-Module 2: Map Upload
-Lionel Training Course
-Last  | Go to the User Portal to download the latest version
-Confidential – do not distribute
-Module completely refreshed in March 2024
-
-30:
-Where are we?
-MODULE 2: MAP UPLOAD AND SYNC
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-In the office
-
-On-site
-
-
-
-
-
-31:
-
-
+Tablet with Map Server Interface: that on-site operators use to access the Map Server Interface
+Mesh Routers: that are connected to the robot and Guiding Station to establish communication within the system
+Map Server: the “brain” that controls the equipment in the system
+Power switch: to turn on the Map Server box
+Accessory Bag: with seven cords and accessories
+Appendix: Lionel Robot Technical Specifications: Weight: 48 kg; Footprint: 82 cm long, 40 cm wide, 113 cm tall; Localisation Accuracy: + / - 5mm accuracy (default accuracy); Battery life: 10 hours (additional batteries can be pre-charged); Marking method: Either permanent or washable paint; Payload: 1L of paint; Working Temperature: Can work between 0 and 40 degrees Celsius; Speed: Maximum speed 1.2 m/s; Battery: 24V voltage, 30Ah capacity; Battery charging time: 5 hours
+Appendix: Guiding Station Technical Specifications: Weight: 21 kg; Footprint: 38 cm long, 38 cm wide, 120 cm tall; Localisation Accuracy: + / - 5mm accuracy (default accuracy); Battery life: 12 hours (additional batteries can be pre-charged); Working Temperature: Can work between 0 and 40 degrees Celsius; Localisation Range: Optimal range within 60m, maximum range 80m; Battery: 24V voltage, 30Ah capacity; Battery charging time: 5 hours
 How does this all work together?
-MODULE 2: MAP UPLOAD
-
-
-Requires access to internet (office Wi-Fi, Hall Wi-Fi or Mi-Fi)
-
-
-portal.augustrobotics.com
-In the office, CAD team/ Technical Manager upload and parse the CAD file
-When you parse, you label the layers for Lionel’s software
-The Map Server has its own local network
-This connects the Map Server to the tablet and devices
+MAP UPLOAD: Requires access to internet (office Wi-Fi, Hall Wi-Fi or Mi-Fi) portal.augustrobotics.com
+In the office, CAD team/ Technical Manager upload and parse the CAD file. When you parse, you label the layers for Lionel’s software
+The Map Server has its own local network. This connects the Map Server to the tablet and devices
 Optional: If you want to monitor the job remotely, keep the Map Server connected to the internet
-Lionel system operates independently
-Local Wi-Fi
-On the tablet, operator downloads map from the portal onto the Map Server
-
-
-Does not require internet
-
-Office Wi-Fi, Hall Wi-Fi or Mi-Fi
-
-、
-
-32:
-A CAD template will provided for each of your halls
-MODULE 2: MAP UPLOAD
-
+Lionel system operates independently. On the tablet, operator downloads map from the portal onto the Map Server. Does not require internet: Office Wi-Fi, Hall Wi-Fi or Mi-Fi
 We will create a CAD template for each of your halls for the client portal map processing 
 After copying the corners, text and symbols from your CAD into the template we have created, you can begin processing the map
-
-33:
-First, log into the User Portal
-Module 2: map upload
-The User Portal provides a quick and simple way to convert your existing CAD files into instructions for Lionel
-
-Go to https://portal.augustrobotics.com
-Log in using the username and password that August Robotics provided you
-Change your password after the first login by clicking the button with your initials on the top-right
-New page March 2024
-
-34:
+First, log into the User Portal, Go to https://portal.augustrobotics.com, Log in using the username and password that August Robotics provided you, Change your password after the first login by clicking the button with your initials on the top-right
 You can navigate the User Portal using the buttons on the left
-Module 2: map upload
-Current Maps
-Archived Maps
-Reports
-Equipment
-Remote Monitoring
-Help
-User Profile
-New page 2024
-
-35:
-To upload a new map, begin by clicking “Add”
-Module 2: map upload
-New page 2024
-
-
-36:
-Select “Upload a Map”
-Module 2: map upload
-From here, you can either:
-Upload a map, or
-Create a new venue / hall. This only needs to be done once per hall
-
-New page March 2024
-
-37:
-[Optional] If the hall is not in the system, you need to add a new venue / hall…
-MODULE 2: MAP UPLOAD
+To upload a new map, begin by clicking “Add”, Select “Upload a Map”. From here, you can either: Upload a map, or create a new venue / hall. This only needs to be done once per hall
+[Optional] If the hall is not in the system, you need to add a new venue / hall
 If you are a floor marking contractor that works across different venues, you may need to add a “New venue” before adding a new hall
 If you are a venue, simply select “Existing venue”, select your venue and then add a new hall
-
 Remember: This step is only relevant if the hall is not yet in the system
-New page March 2024
-
-
-
-38:
-Start off by specifying the name of the show 
-Module 2: map upload
-Select the show the map is for. If the show is not in the system, input the show details
-Select the venue 
-Select the hall 
-New page
-
-
-
-39:
-Upload your map
-Module 2: map upload
+Start off by specifying the name of the show. Select the show the map is for. If the show is not in the system, input the show details. Select the venue. Select the hall
 Upload your map as a DXF file. DXF 2007 is recommended.
-Enter the version number.
-If this is the first version of the map for that show, enter “01”
-If you later upload an updated file, enter “02” and so on
+Enter the version number. If this is the first version of the map for that show, enter “01”. If you later upload an updated file, enter “02” and so on
 The portal will not accept two maps with the same version number
-Select a paint colour you plan to use to mark the show
-Click “Parse Map”
-New page
-You have the option to provide your planned marking date 
-Providing this date allows us to allocate support resources effectively
-
-
-40:
-Confirm the target layout is named ‘Model’ 
-Module 2: map upload
-
-Target Layout is always “Model”
-First, we need to confirm which layout (drawing/ view) you want to work on
-The default name for this Target Layout is ‘Model’
+Select a paint colour you plan to use to mark the show. Click “Parse Map”. You have the option to provide your planned marking date. Providing this date allows us to allocate support resources effectively
+Confirm the target layout is named ‘Model’. Target Layout is always “Model”
+First, we need to confirm which layout (drawing/ view) you want to work on. The default name for this Target Layout is ‘Model’
 In most CAD plans, the default name is ‘Model’, but some files may use a different name. Please confirm your active layout is called ‘Model’ before proceeding
 If it is not already named ‘Model’, simply right-click on the tab and rename it to ‘Model’. You should already be familiar with how to rename layouts in your CAD software
-
-See this example from a typical CAD
-
-41:
-
-Identify the layers related to Devices
-Module 2: map upload
+Identify the layers related to Devices:
 In order to convert a CAD file into instructions for the robots, we need to parse the map i.e. allow Lionel to identify the different layers
 The first set of layers provide the default positions for all your devices in the hall
 The CAD template provided by August Robotics will already have these layers included for you
 In the screenshot, we have shown the default layers from CAD template
 These layers contain the locations of all the equipment in the hall, so that the Lionel robots and Guiding Stations can locate each other
 While specifying these layers is optional, it is highly recommended
-New page
-
-42:
-Next, identify the layers related to the marks
-Module 2: map upload
+Next, identify the layers related to the marks:
 If you want extra marks in the for long booth edges, tick this box
-New page
 If a mark is too close to an obstacle, an ‘Extension Mark’ is generated. The distance from the obstacle can be changed
 IMPORTANT: These layers must contain all the information that needs to be marked. If it is not here, it will not be marked
-Identify what needs to be marked…
-… you also have the option to generate additional marks depending on the job needs
+Identify what needs to be marked you also have the option to generate additional marks depending on the job needs
 Where a mark is made on a tunnel cover, an extra mark can be made next to the tunnel (in case the tunnel cover is moved)
-If an airwall crosses through a booth, an additional mark on either side of the airwall can be added
-
-43:
+If an air-wall crosses through a booth, an additional mark on either side of the air-wall can be added
 Identify the layers related to obstacles and hall features
-Module 2: map upload
 The obstacle layer will contain all the permanent obstacles in the hall (e.g. walls and pillars)
 The information layer can contain any other details that may be useful to orient yourself in the hall (e.g. electrical tunnels)
-New page
 The last set of layers provide information on the physical features of the hall
 The CAD template provided by August Robotics will already have default layers included for you
-In the screenshot, we have shown the default layers from CAD template
-
-44:
-Parse the map
-Module 2: map upload
-After the map has been parsed
-Click the “View”       or “Edit”        icons to review
-
-If you need to add or revise anything, you can
-      Edit the map you just parsed (usually used for small changes), or
-      Upload a new DXF file (usually used if booth layouts have changed), or
-      Re-parse the current DXF file (usually used if you made a mistake in selecting layers)
-Press F5 to refresh the page
-Once the map has finished parsing, the number of marks to be painted will be displayed
-
-New page
-It is important to review the map once parsed. See tips on inspecting the map in Module 3
-
-45:
-Module 3: On-Site Preparation
-Lionel Training Course
-Last  | Go to the User Portal to download the latest version
-Confidential – do not distribute
-
-46:
-Where are we?
-MODULE 3: ON-SITE PREPARATION
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-In the office
-
-On-site
-
-
-
-
-47:
-What is in Module 3, On-Site Preparation?
-MODULE 3: ON-SITE PREPARATION
-Charge all batteries
-
-The day before...
-
-Use the charging station to charge all the batteries
-
-
-48:
-
-What is in Module 3, On-Site Preparation?
-MODULE 3: ON-SITE PREPARATION
-Charge all batteries
-
-The day before...
-
-Use the charging station to charge all the batteries
-
-
-49:
+Parse the map:
+After the map has been parsed. Click the “View” or “Edit” icons to review
+If you need to add or revise anything, you can Edit the map you just parsed (usually used for small changes), or Upload a new DXF file (usually used if booth layouts have changed), or Re-parse the current DXF file (usually used if you made a mistake in selecting layers)
+Press F5 to refresh the page. Once the map has finished parsing, the number of marks to be painted will be displayed
+ON-SITE PREPARATION:
 Before the day of the job, you will need to charge your batteries
-MODULE 3: ON-SITE PREPARATION
 The number of batteries you have depends on the number of equipment you have
-One Lionel robot 
-Requires one 24V battery
-One Guiding Station 
-Requires one 24V battery OR the External Power Supply connected to a power socket
-One pair of Reference Beacons
-Requires two 12V batteries
-One Map Server
-Requires one 24V battery OR 110V/220V power supply from a power socket
-
-
-50:
-The charging station
-MODULE 3: ON-SITE PREPARATION
+One Lionel robot requires one 24V battery
+One Guiding Station requires one 24V battery OR the External Power Supply connected to a power socket
+One pair of Reference Beacons requires two 12V batteries
+One Map Server requires one 24V battery OR 110V/220V power supply from a power socket
 Charge your large 24V batteries in the large slots (there are 6 slots)
 Charge your small 12V batteries in the small slots (there are 2 slots)
 Make sure to plug the charging cable into the “IN” port
 Charge the Tablet separately or use the USB port in the Map Server box to charge the Tablet
-IN port
-IN port
-
-
-51:
-Use the charging station to charge all your batteries at once
-MODULE 3: ON-SITE PREPARATION
-Charge your large 24V batteries in the large slots (there are 6 slots)
-Charge your small 12V batteries in the small slots (there are 2 slots)
-Either charge the Tablet separately or use the USB port in the Map Server box to charge the Tablet
-
-
-
-
-52:
-
-What is in Module 3, On-Site Preparation?
-MODULE 3: ON-SITE PREPARATION
-Charge all batteries
-Power on the Map Server
-
-
-The day before...
-On the day...
-
-
-Use the charging station to charge all the batteries
-Power on the Map Server and retrieve the Tablet
-You must have internet
-
-Updated again March 2024
-
-53:
-
-
-How does this all work together?
-MODULE 2: MAP UPLOAD
-
-
-Requires access to internet (office Wi-Fi, Hall Wi-Fi or Mi-Fi)
-
-
-portal.augustrobotics.com
-In the office, CAD team/ Technical Manager upload and parse the CAD file
-When you parse, you label the layers for Lionel’s software
-The Map Server has its own local network
-This connects the Map Server to the tablet and devices
-Optional: If you want to monitor the job remotely, keep the Map Server connected to the internet
-Lionel system operates independently
-Local Wi-Fi
-On the tablet, operator downloads map from the portal onto the Map Server
-
-
-Does not require internet
-
-Office Wi-Fi, Hall Wi-Fi or Mi-Fi
-
-、
-
-54:
-On the day of the job, turn on the Map Server
-MODULE 3: ON-SITE PREPARATION
-Tablet with Map Server Interface
-that on-site operators use to access the Map Server Interface
-Mesh Routers
-that are connected to the robot and Guiding Station to establish communication within the system
-Map Server
-the “brain” that controls the equipment in the system
-Power switch
-to turn on the Map Server box
-Accessory Bag
-with seven cords and accessories
-
-55:
-Turn on the Tablet and open Settings to connect to the Map Server Wi-Fi
-MODULE 3: ON-SITE PREPARATION
-
-Click the Settings icon 
-
-
-56:
-Connect Tablet to Map Server (MSP1-00xx) Wi-Fi
-MODULE 3: ON-SITE PREPARATION
-
-
-Mark sure you’re connected to MSP1-00xx
-
-The Password for the network MSP1-00xx is ‘augustbase’
-Network: MSP1-00XX
-Password: augustbase
-
-
-57:
-Open the Map Server Interface 
-
-
-MODULE 3: ON-SITE PREPARATION
-You can open the Map Server Interface in two ways:
-Click on the shortcut with the August Robotics logo
-Open Firefox and enter the IP address: 192.168.59.99
-
-
-
-58:
-MODULE 3: ON-SITE PREPARATION
-Username: operator
-Password: 	aug
-Log into the Map Server Interface
-Log in by entering the Username ‘operator’ and Password ‘aug’
-
-
-
-59:
-Connect the Map Server (MSP) to the internet
-
-
-MODULE 3: ON-SITE PREPARATION
-
-
-
-
-Click on the Wi-Fi symbol
-
-
-
-Select your Wi-Fi Network
-Input the password
-
-
-
-
-
-
-You can connect the MSP to your hall/office Wi-Fi, or phone hotspot
-
-
-60:
-
-What is in Module 3, On-Site Preparation?
-MODULE 3: ON-SITE PREPARATION
-Charge all batteries
-Power on the Map Server
-[Optional] Pull the latest map and/or make last minute edits
-
-
-
-The day before...
-On the day...
-On the day...
-
-
-
-Use the charging station to charge all the batteries
-Power on the Map Server box and retrieve the Tablet
-You must have internet
-Use the Tablet to access your maps
-Ideally, you will have pulled / downloaded your maps to the Map Server before the job day
-
-
-61:
-If you already have the map on the Map Server, 
-you do not need to download/pull maps again
-
-62:
-Pull maps from your User Portal to the Map Server
-MODULE 3: ON-SITE PREPARATION
-Click ‘Pull map’ to transfer map(s) from your User Portal to your Map Server
-
+Use the charging station to charge all your batteries at onc
+Turn on the Tablet and open Settings to connect to the Map Server Wi-Fi. Click the Settings icon. Connect Tablet to Map Server (MSP1-00xx) Wi-Fi
+Mark sure you’re connected to MSP1-00xx. Network ID: MSP1-00XX Password: augustbase
+You can open the Map Server Interface in two ways: Click on the shortcut with the August Robotics logo or Open Firefox and enter the IP address: 192.168.59.99
+Log into the Map Server Interface: Log in by entering the Username ‘operator’ and Password ‘aug’
+Pull maps from your User Portal to the Map Server: Click ‘Pull map’ to transfer map(s) from your User Portal to your Map Server
 [Optional] Later, if you have edited your map(s) on the Map Server (e.g. to add a new moveable obstacle), you can also click ‘Push map’ to transfer the updated map(s) back to your User Portal
-
-
-63:
-Pull maps from your User Portal to the Map Server
-MODULE 3: ON-SITE PREPARATION
 Select your maps on the left side and click Pull Now to download them
-
-
 If you see a red yes under “conflict”, be careful.
 This means the map that is currently on your MSP will be replaced with the one currently on the portal
 You WILL lose current mark status, flagged marks and any data stored on the map
-
-
-
-
-
-64:
-Select a map to view / inspect
-MODULE 3: ON-SITE PREPARATION
 The list of maps you have pulled from the User Portal to the Map Server will be shown here
-
 Click on the eye icon to view and the pencil icon to edit a map on the Map Server
-
 Try not to edit maps on the Map Server unless necessary. It is easier to edit maps in the User Portal before the job day
-
-
-
-65:
-Inspect the map: Navigation
-MODULE 3: ON-SITE PREPARATION
 Pinch the screen to zoom in on different sections of the map
 There are 4 buttons on the bottom right of the map
 Zoom in/out and move around the map
-
 Drag or click to select marks and obstacles
-
 Click to see coordinates on the map
-
 Click to reset the map view
-
-	
-
-
-
-
-66:
 Inspect the map: Legend
-MODULE 3: ON-SITE PREPARATION
 The multicolored button on the left opens a pop-up window to view/hide and/or highlight specific type of marks and information
 Clicking Flagged Marks  highlights marks which may not be perfectly painted on the floor
 Clicking Unpainted Marks highlights marks which still need to be painted
 Clicking Unreachable Marks highlights marks the system may not be able to reach
-
-
-
-
-67:
 Inspect the map: Overview
-MODULE 3: ON-SITE PREPARATION
 The marks and obstacles for this map are displayed here
 The bottom left panel is the map overview
 ‘Enabled’ marks are marks that the user has requested Lionel to paint. They may be
 ‘Painted’ (Lionel has physically painted the mark)
 ‘Unpainted’ (Lionel has not yet painted the mark)
-‘Disabled’ marks are marks that the user has requested Lionel to not paint. They may be
-Painted (rare)
-Unpainted
-‘Enabled’ and ‘Disabled’ describe the user’s choice. ‘Painted’ and ‘Unpainted’ describe Lionel’s progress
+‘Disabled’ marks are marks that the user has requested Lionel to not paint. They may be 'Painted' (rare), 'Unpainted', ‘Enabled’, and ‘Disabled’ describe the user’s choice. ‘Painted’ and ‘Unpainted’ describe Lionel’s progress
 Total marks = Enabled marks + Disabled marks
-
-
-
-68:
-
-What is in Module 3, On-Site Preparation?
-MODULE 3: ON-SITE PREPARATION
-Charge all batteries
-Power on the Map Server
-[Optional] Pull the latest map and/or make last minute edits
-Add the paint
-
-
-
-
-Use the charging station to charge all the batteries
-Power on the Map Server box and retrieve the Tablet
-You must have internet
-Use the Tablet to access your maps
-Ideally, you will have pulled / downloaded your maps to the Map Server before the job day
-Choose the correct paint colour for the show and install the bottle into the robot
-
-
-
-69:
-Prepare the paint
-MODULE 3: ON-SITE PREPARATION
-August Robotics offers a range of washable paint colours:
-White
-Yellow
-Blue
-Green
-Red
-Pink
-Orange
-Purple
-Contact August Robotics if you wish to order more paint
+Prepare the paint: August Robotics offers a range of washable paint colours: White, Yellow, Blue, Green, Red, Pink, Orange, Purple. Contact August Robotics if you wish to order more paint
 Before using, shake the paint bottle WELL to make sure the mixture is even and has no sediment – bad paint leads to bad marks
-
-
-
-
-
-
-
-
-New page
-
-70:
-Module 4: Equipment Set-Up
-Lionel Training Course
-Last | Go to the User Portal to download the latest version
-Confidential – do not distribute
-
-71:
-Where are we?
-MODULE 4: EQUIPMENT SET-UP
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-In the office
-
-On-site
-
-
-
-
-72:
-Simple steps to start running:
-
-MODULE 4: EQUIPMENT SET-UP
-Turn on Map Server
-Turn on Tablet and connect Tablet to Map Server Wi-Fi
-Open the Map Server Interface 
-Connect Map Server to the internet
-Inspect map/s
-Follow setup checklist
-Calibrate Guiding Station/s and Lionel/s
-Start map
-Start Lionels
-
-
-73:
-Open the Map Server Box, flip the power switch
-MODULE 4: equipment set-up
-Map Server
-the “brain” that controls the equipment in the system
-Power switch
-to turn on the Map Server box
-
-
-74:
-Turn on the Tablet and open Settings to connect to the Map Server Wi-Fi
-MODULE 4: equipment set-up
-
-Click the Settings icon 
-
-
-75:
-Connect Tablet to Map Server (MSP1-00xx) Wi-Fi
-MODULE 4: equipment set-up
-
-
-Mark sure you’re connected to MSP1-00xx
-
-The Password for the network MSP1-00xx is ‘augustbase’
-Network: MSP1-00XX
-Password: augustbase
-
-
-76:
-Open the Map Server Interface 
-
-
-MODULE 4: equipment set-up
-You can open the Map Server Interface in two ways:
-Click on the shortcut with the August Robotics logo
-Open Firefox and enter the IP address: 192.168.59.99
-
-
-77:
-MODULE 4: equipment set-up
-Username: operator
-Password: 	aug
-Log into the Map Server Interface
-Log in by entering the Username ‘operator’ and Password ‘aug’
-
-
-
-78:
-Connect the Map Server (MSP) to the internet
-
-
-MODULE 4: equipment set-up
-
-
-
-
-
-Click on the Wi-Fi symbol
-
-
-
-Select your Wi-Fi Network
-Input the password
-
-
-
-
-
-
-You can connect the MSP to your hall/office Wi-Fi, or phone hotspot
-
-
-79:
-If you have not pulled the map/s yet,
-please use the process in Module 3
-
-80:
-Select the maps from your User Portal that you would like to mark
-MODULE 4: EQUIPMENT SET-UP
-
+Simple steps to start running: 1. Turn on Map Server 2. Turn on Tablet and connect Tablet to Map Server Wi-Fi 3. Open the Map Server Interface 4. Connect Map Server to the internet 5. Inspect map/s 6. Follow setup checklist 7. Calibrate Guiding Station/s and Lionel/s 8. Start map 9. Start Lionels
+Select the maps from your User Portal that you would like to mar
 You can mark multiple shows at the same time, simply select more than one map and click on “Start Job”
-
 If you select multiple maps for a job, the maps must be for the same hall.
-
-
-
-
-81:
-Preview job and click Confirm
-MODULE 4: EQUIPMENT SET-UP
- 
-Here you can quickly inspect the map/s. 
-Check to see that all booths appear to be in the correct location and nothing seems abnormal
-If acceptable, click confirm
-
-
-
-82:
-Equipment Set-up
-MODULE 4: EQUIPMENT SET-UP
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-83:
-Recap of how the system works
-MODULE 4: EQUIPMENT SET-UP
-Guiding Station
-Reference Beacon
-Reference Point
-Reference Point
-Reference Beacon
-Lionel Robot
-Refer to Module 1 for a recap of why we need all these components
-In summary,
-The predefined Reference Points tell you where to place the Reference Beacons
-The Reference Beacons enable the Guiding Station (once calibrated) to understand its position
-The Guiding Station enables the Lionel robot (once calibrated) to understand its position
-
-84:
-The Map Server Interface will guide you through the setup process step-by-step
-MODULE 4: EQUIPMENT SET-UP
-Do we have all our equipment on site?
-
-85:
-
-Equipment Set-Up
-MODULE 4: EQUIPMENT SET-UP
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-86:
-Place the two Reference Beacons on the Reference Points in the hall
-MODULE 4: EQUIPMENT SET-UP
+Preview job and click Confirm: Here you can quickly inspect the map/s.
+Check to see that all booths appear to be in the correct location and nothing seems abnormal. If acceptable, click confirm
+In summary, The predefined Reference Points tell you where to place the Reference Beacons. The Reference Beacons enable the Guiding Station (once calibrated) to understand its position. The Guiding Station enables the Lionel robot (once calibrated) to understand its position
 Your August Robotics representative will have pre-defined two Reference Points for the physical hall
-
 The Reference Points allow us to “match” the digital plan with the physical hall
-
 These points will have been physically marked in the hall by August Robotics (e.g. with a nail on the ground)
-
-Place the two Reference Beacon stands over the two Reference Points
-Reference Point
-Reference Point
-
-87:
-Place the two Reference Beacons on the Reference Points in the hall
-MODULE 4: EQUIPMENT SET-UP
-Your August Robotics representative will have pre-defined two Reference Points for the physical hall
-
-The Reference Points allow us to “match” the digital plan with the physical hall
-
-These points will have been physically marked in the hall by August Robotics (e.g. with a nail on the ground)
-
 Place the two Reference Beacon stands over the two Reference Points
 Laser light (red dot) directly on top of reference point (black cross)
-Reference Beacon stand
-Levelling bubble
-Levelling screws
-
-88:
-Adjust the Reference Beacons and power them on
-MODULE 4: EQUIPMENT SET-UP
 For each Reference Beacon stand:
-Turn on the laser using the red switch
-Adjust the position of the stand so the downward laser shines precisely onto the reference point (see photo on previous page)
-Level the Reference Beacon by using the black levelling screws to centre the round bubble
-Mount the blue and green beacon onto the stand
+Turn on the laser using the red switch. Adjust the position of the stand so the downward laser shines precisely onto the reference point (see photo on previous page).
+Level the Reference Beacon by using the black levelling screws to centre the round bubble. Mount the blue and green beacon onto the stand
 Check the position of the laser. This may have moved during the above steps. Adjust the position of the stand again so the laser shines precisely onto the reference point
 Repeat the above two steps until the bubble and the laser are both in the correct place
-Connect a small 12V battery to the Reference Beacon. Take care not to move the Reference Beacon
-Turn off the laser using the red switch
-The following video demonstrates these steps
-
-89:
-Adjust the Reference Beacons and power them on
-MODULE 4: EQUIPMENT SET-UP
-This video demonstrates the steps on the previous page
-
-
-
-If we hide this, we won’t have it in the pdf 
-
-90:
-The Map Server recaps the above steps
-MODULE 4: EQUIPMENT SET-UP
-
-91:
-
-Module 4, Equipment Set-Up
-MODULE 4: EQUIPMENT SET-UP
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-92:
-Place the Guiding Station in its Suggested Home Base in the hall
-MODULE 4: EQUIPMENT SET-UP
+Connect a small 12V battery to the Reference Beacon. Take care not to move the Reference Beacon. Turn off the laser using the red switch
 Your August Robotics representative will provide a “Suggested Home Base” for the Guiding Station, a rough area in which you should place the Guiding Station
 From its Home Base, the Guiding Station will “look” for the Reference Beacon so the system can determine the Guiding Station’s precise position
-
 The Home Base is highlighted digitally on the interface (in blue)
-Place the Guiding Station in its Home Base in the hall
-Guiding Station’s Suggested Home Base
-
-93:
-Ensure the Guiding Station is placed in the correct orientation in the hall
-MODULE 4: EQUIPMENT SET-UP
 Place the Guiding Station in the correct orientation. Match the X-Y sticker on the Guiding Station to X-Y direction on the map
-
 Ensure that all four feet of the Guiding Station are in contact with the ground and that the Guiding Station is stable
-Sticker on GS
-Sticker on GS
-Y
-X
-
-
-94:
-Add the components to the Guiding Station and power it on
-MODULE 4: EQUIPMENT SET-UP
 For the Guiding Station:
 Connect a large 24V battery to the Guiding Station’s power cable
 Place a Mesh Router into the holder on the side of the Guiding Station and attach the router power and LAN cable
 Turn on the Guiding Station using the red switch. A red LED light indicates that the Guiding Station is powered on. Make sure the Emergency Stop button is not pressed
-The following video demonstrates these steps
-
-95:
-Add the components to the Guiding Station and power it on
-MODULE 4: EQUIPMENT SET-UP
-
-This video demonstrates the steps on the previous page
-
-
-
-96:
-The Map Server recaps the above steps
-MODULE 4: EQUIPMENT SET-UP
-
-97:
-
-Module 4, Equipment Set-Up
-MODULE 4: EQUIPMENT SET-UP
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-98:
-Place the Lionel Robot in its Suggested Home Base in the hall
-MODULE 4: EQUIPMENT SET-UP
 Your August Robotics representative will provide a “Suggested Home Base” for the Lionel robot, a rough area in which you should place the robot as its starting position
 The Home Base is the rough area the Guiding Station will “look” to find the Lionel robot so the system can determine Lionel’s position
-
 The Home Base is highlighted digitally on the interface (in blue)
 Place the physical robot in its Home Base in the hall
-Lionel’s Suggested Home Base
-
-99:
-Ensure the Lionel robot is placed in the correct orientation
-MODULE 4: EQUIPMENT SET-UP
-Regardless whether you use the Suggested Home Base or the Customised Home Base... 
-
 Place the Lionel in the correct orientation, ensuring it matches the orientation the Lionel icon is facing in the Map Server Interface
-View on Map server
-Lionel in the hall
-
-
-100:
-Add the battery and Mesh Router to Lionel
-MODULE 4: EQUIPMENT SET-UP
 For the Lionel robot:
 Open the cover at the bottom of Lionel to reveal a black and red battery cable. Place a large 24V battery inside and connect it to the cable. Close the cover
 Place a Mesh Router into the holder on the top of Lionel and attach the router power and LAN cable
-The following video demonstrates these steps
-
-101:
-Add the battery and Mesh Router to Lionel
-MODULE 4: EQUIPMENT SET-UP
-
-This video demonstrates the steps on the previous page
-
-
-
-102:
-Load the paint into Lionel
-MODULE 4: EQUIPMENT SET-UP
-The following video demonstrates these steps
-For the Lionel robot:
 Take the Paint Tank containing prepared paint and place it into the compartment on the side of Lionel. Connect the tube on the Paint Tank to the pipe connector in Lionel’s compartment. Ensure the Paint Tank clicks into place. Take care not to damage the fittings.
 Loosen the screw on the right side of Lionel’s nozzle. Add some water to the foam cap of the nozzle – this prevents the nozzle from drying out
 Press the red switch between Lionel’s wheels to switch on Lionel. A red LED means Lionel is powered on.
-Press the ‘Preload’ button to pump some paint from the Paint Tank to Lionel’s nozzle. Ensure that the tubes are not compressed. Hold the button until the paint flows out of the nozzle in a steady stream. This means the paint is properly loaded 
-
-103:
-Load the paint into Lionel
-MODULE 4: EQUIPMENT SET-UP
-
-This video demonstrates the steps on the previous page
-
-
-
-104:
-The Map Server recaps the above steps
-MODULE 4: EQUIPMENT SET-UP
-
-105:
-What is next?
-Module 4: equipment set-up
-So far in this module, you have
-Placed the Reference Beacons on the Reference Points
-Placed the Guiding Station in its Home Base
-Placed the Lionel robot in its Home Base
+Press the ‘Preload’ button to pump some paint from the Paint Tank to Lionel’s nozzle. Ensure that the tubes are not compressed. Hold the button until the paint flows out of the nozzle in a steady stream. This means the paint is properly loaded
 However, only the Reference Beacons know precisely where they are in the hall
-In the rest of the module, you will
-Calibrate the Guiding Station – using the Reference Beacons, the Guiding Station will learn precisely where it is in the hall
-Then, calibrate the Lionel robot – using the Guiding Station, the robot will learn precisely where it is in the hall, so it is ready to start
-You are here
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-106:
-
-Module 4, Equipment Set-Up
-MODULE 4: EQUIPMENT SET-UP
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-107:
-Guiding Station states
-Module 4: equipment set-up
-The Guiding Station’s states are colour coded on the Map Server
-Blue
-Green
-Red
-Uninitialised
-Unlocated
-Locating
-Idle / Running
-Error
+In the rest of the module, you will  Calibrate the Guiding Station – using the Reference Beacons, the Guiding Station will learn precisely where it is in the hall. Then, calibrate the Lionel robot – using the Guiding Station, the robot will learn precisely where it is in the hall, so it is ready to start
+The Guiding Station’s states are colour coded on the Map Server: Blue (Uninitialised and Unlocated), Green (Locating or Idle / Running), Red (Error)
 The Guiding Station will start at the ‘Uninitialised’ state
 After it has been successfully calibrated, the Guiding Station will be in ‘Idle’ state
-Colour on Map Server Interface
-State
-
-
-
-
-108:
-Guiding Station start ‘Uninitialised’ state
-
-
 Uninitialised Guiding Station has not yet self-levelled
-
 Initialised The self inclination test is done
-
 Unlocated Guiding Station does not know its location, select the location on the map
-
 Locating Guiding Station is finding its location in the hall
-
 Idle Guiding Station is ready for the job
-
 Error Try clicking the `Reset` button to repeat the calibration steps
-Module 4: equipment set-up
-
-109:
-Select a Guiding Station
-Module 4: equipment set-up
 Ensure that all four feet of the Guiding Station are in contact with the ground and that the Guiding Station is stable
-
 Select the Guiding Station by clicking its box on the right panel
-
-
-
-
-110:
-‘Initialise’ the Guiding Station
-Module 4: equipment set-up
-Click the ‘Initialise’ button
-
-
-111:
-‘Initialise’ the Guiding Station
-Module 4: equipment set-up
-The initialisation process may take a few minutes – please wait
-
-112:
-‘Locate’ the Guiding Station 
-Module 4: set-up equipment
+Click the ‘Initialise’ button: The initialisation process may take a few minutes – please wait
 The location of the Guiding Station icon should now mirror the location of the Guiding Station in the physical hall
 Click on the Guiding Station icon – its blue bubble will expand to indicate it has been selected
-Then, click the ‘Locate’ button
-
-113:
-‘Locate’ the Guiding Station
-Module 4: set-up equipment
-The Guiding Station will now ‘look’ for the Reference Beacons. This may take a few minutes
-
-
-114:
-Guiding Station located successfully
-Module 4: equipment set-up
+Then, click the ‘Locate’ button. The Guiding Station will now ‘look’ for the Reference Beacons. This may take a few minutes
 Once located, the Guiding Station’s bubble turns green and the Guiding Station’s state becomes ‘Idle’
 Click the ‘Lionel Calibration’ button to begin the Lionel calibration process
-
-
 If there was an error in locating:
 Double check that the physical equipment has been placed in the correct areas (Reference Beacons, Guiding Station)
 Double check that the Guiding Station has been placed in the correct orientation
-
-
-
-
-
-115:
-
-Module 4, Equipment Set-Up
-MODULE 4: EQUIPMENT SET-UP
-
-
-
-
-
-Setting up the Reference Beacons
-Setting up the Guiding Station
-Setting up Lionel
-Calibrating the Guiding Station
-Calibrating Lionel
-
-116:
 To calibrate the Lionel robot, we need to use the Map Server Interface to progress it to an ‘Idle’ state
-Module 4: equipment set-up
-The Guiding Station’s states are colour coded on the Map Server
-Blue
-Green
-Red
-Unlocated
-Locating
-Idle / Running
-Error
-Lionel will start at the ‘Unlocated’ state
-After it has been successfully calibrated, Lionel will be in ‘Idle’ or ‘Running’ state
-Colour on Map Server Interface
-State
-
-
-
-
-117:
-‘Locate’ Lionel
-Module 4: equipment set-up
 Select the Lionel robot by clicking its box on the right panel
-
-
-118:
-‘Locate’ Lionel
-Module 4: equipment set-up
 The location of the Lionel icon should now mirror the location of Lionel in the physical hall
 Tap on the Lionel icon – its blue bubble will expand to indicate it has been selected
 Click the ‘Ok’ button
-
-
-If you are setting up multiple Lionel robots, repeat the above steps for the other robots
-Then, click the ‘Locate’ button
-
-119:
-‘Locate’ Lionel
-Module 4: equipment set-up
+If you are setting up multiple Lionel robots, repeat the above steps for the other robots. Then, click the ‘Locate’ button
 The Guiding Station will now ‘look’ for the Lionel robot. This may take a few minutes
-
-Once located, a          symbol will appear. This shows the actual location, and correct orientation, of the Lionel robot
-
-
+Once located, a symbol will appear. This shows the actual location, and correct orientation, of the Lionel robot
 If there was an error in locating:
 Double check that the physical equipment has been placed in the correct areas (Guiding Station, Lionel)
 Double check that Lionel has been placed in the correct orientation
-
-
-120:
 You have successfully calibrated Lionel
-Module 4: equipment set-up
 Once located, Lionel’s bubble turns green and Lionel’s state becomes ‘Idle’
 This means you have completed the Lionel calibration process
-
 Remove the Reference Beacons from the hall
 Click ‘Ready to operate’
-
-
-
-
-
-121:
-Start your map
-Module 4: equipment set-up
 We now need to select a map for each Lionel to run, first tap ‘Start Running’
-
-
-
-
-
-
-
 Select the desired map, and tap ‘OK’
-
-
-
 The Lionel state will then change to ‘Running’
-
-
-
-
-122:
 Lionel will now start running the job
-Module 4: equipment set-up
-
-123:
-Module 5: Job Supervision
-Lionel Training Course
-Last  | Go to the User Portal to download the latest version
-Confidential – do not distribute
-
-124:
-Where are we?
-Module 5: job supervision
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-In the office
-
-On-site
-
-
-
-
-
-125:
-What is in Module 5, Job Supervision
-Module 5: job supervision
+Job supervision:
 After pressing ‘Run Job’, Lionel works independently
 If all goes well, you do not need to do anything
 This module shows you what to do if errors occur or if you have more advanced needs (e.g. need to add extra robots or Guiding Stations)
 This module walks through the three features on the Map Server Interface that allow you to monitor / manage the job in real time
 Equipment Status 
 Add Equipment
-
-
-
 View Flagged Mark
 Priority Area Selection (covered in Advanced Operations)
-
-126:
-What does Lionel do when it is running the job?
-Module 5: job supervision
 The Lionel robot, even without the assistance of a Guiding Station, has a rough sense of its location. It will move towards the location of a mark and stop when it believes it is there
 Then, Lionel will use a camera to find the Guiding Station. The Guiding Station uses a laser to determine Lionel’s precise position
 If Lionel is slightly off of the correct position, Lionel will adjust itself
 Lionel will then make the mark by spraying paint from its nozzle
 Lionel will take the most efficient route to complete all the marks, guided by the Map Server
 Move, Stop, Adjust, Mark
-
-
-
-
-127:
-Lionel has a range of sensors
-Module 5: job supervision
-Lionel has multiple, independent sensors, resulting in a highly reliable obstacle avoidance and safety system
-Level 1: Lidar
-Level 2: Sonar
-Level 3: Depth Camera
-
-
-300 degree Lidar (Light detection and ranging) coverage, with 8 metre range
-7 sonar sensors across the front and side of Lionel
-Depth camera to detect some small and low obstacles on the floor
-
-
-Diagrams are not to scale: range of sensors are larger
-
-
-128:
-... meaning it can autonomously detect and plan around both static and dynamic obstacles
-Module 5: job supervision
-
-
+Lionel has a range of sensors. Lionel has multiple, independent sensors, resulting in a highly reliable obstacle avoidance and safety system. Level 1: Lidar: 300 degree Lidar (Light detection and ranging) coverage, with 8 metre range; Level 2: Sonar: 7 sonar sensors across the front and side of Lionel; Level 3: Depth Camera: Depth camera to detect some small and low obstacles on the floor
+meaning it can autonomously detect and plan around both static and dynamic obstacles
 E-stop area = 1 metre
 Unexpected object within 1 metre will trigger E-Stop, with braking distance of 0.1 metres
-Lidar System:
-Sonar and Depth Camera not shown on diagram
 Lidar detection range = 8 metres
 Unexpected object within 8 metres will trigger Lionel to replan its path
-
-129:
 As a last line of defence, you can physically push the emergency stop button
-Module 5: job supervision
-
-130:
 Use the Map Server on the Tablet to supervise the Job
-Module 5: job supervision
 This shows the progress of the job
 Use the plus icon to add new equipment
 Use this button to stop all the Lionel robots on the job
 Use this pause button to stop a specific Lionel robot
-
-
-131:
 Equipment Status: check the status of the robot(s) and Guiding Station(s)
-Module 5: job supervision
 The Equipment Page on the right panel displays all the Lionel robots and Guiding Stations you have set up
-
 Frequently check and ensure the Lionel robot(s) and Guiding Station(s) are in the correct states
 Guiding Stations should be in ‘Idle’ or ‘Running’ states (green bubble on map)
 Robot should be in ‘Running’ states (green bubble on map)
-
-
-
-
-
-132:
 Equipment Status: if a piece of equipment is in an ‘Error’ state...
-Module 5: job supervision
 If a piece of equipment is in an ‘Error’ state
 Click the ‘Refresh’ icon to view details and follow the instructions to fix the error
 If the error persists, restart the piece of equipment by turning the power switch off and back on
-
-
-
-
-133:
-Equipment Status: if Lionel needs new paint...
-Module 5: job supervision
 If Lionel has run out of paint or requires a change in colour
 Click the ‘Pause’ button to stop Lionel
 Load the Paint Tank in Lionel’s compartment, repeating the steps in module 4
-Confirm the show Lionel should mark with the paint
-Click ‘Start Running’ 
+Confirm the show Lionel should mark with the paint. Click ‘Start Running’
 You do not need to re-calibrate Lionel unless you have moved it (which usually will not happen as Lionel’s wheels will lock when it is paused)
-
-
-
-
-134:
-Add Equipment: You can add extra Lionel robots and/or Guiding Stations to your job
-Module 5: job supervision
 One Lionel system consists of one robot and one Guiding Station
 You can add additional Guiding Stations
 You can add additional robots
 This is required for halls that are large and halls with lots of pillars or other obstructions
 Lionel always needs to establish line of sight to a Guiding Station to confirm and adjust its position before placing each mark
 This enables you increase the speed of marking and complete the job faster
-
-
-135:
-Add Equipment: Use this page to add extra Lionel robots and/or Guiding Stations to your job
-Module 5: job supervision
-Click to ‘Set Up’ extra robots or Guiding Stations
-Repeat the calibration processes in module 4
-
 Once you add extra Lionel robots, the Map Server will automatically divide the work between the robots in the most efficient manner
-
-
-136:
 View Mark: You can use this feature to check the quality of your marks
-Module 5: job supervision
 Lionel has a camera to record each mark made and utilises AI to check each mark meets the quality standards
 If the AI suspects a mark is bad quality, it will report a flagged mark 
 Using the View Mark feature, you can review the flagged marks 
 If the mark looks good, you can click Correct
 If a mark is not to your liking, you can click Unpaint. If you unpaint the mark, the mark will be recorded as unpainted and reflected as such in the job report
 Reminder: You will need to clean the mark and run the job again to paint a new mark
-
-
-137:
 You can also monitor the job remotely on your laptop or your phone
-Module 5: job supervision
 To monitor the job remotely
 Ensure the Map Server is connected to the internet using the Hall Wi-Fi, Ethernet connection or a Mi-Fi
 Log onto the User Portal and click on the ‘Remote Monitor’ icon
-
-
-138:
-Remember: 
-
-If you do not need to add extra equipment and encounter no errors, you do not need to do anything during the job
-Module 5: job supervision
-
-139:
-Module 6: Clean Up
-Lionel Training Course
-Last  | Go to the User Portal to download the latest version
-Confidential – do not distribute
-
-140:
-Where are we?
-Module 6: clean up
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-
-141:
-What is in Module 6, Clean Up?
-Module 6: clean up
-After the job...
-Clean Up
-After the job... 
-Pack Up
-
-
-You need to clean
-The paint tank and its pipe
-Lionel’s spray nozzle
-Lionel’s pipes
-
-You need to replace
-The spray nozzle’s foam cap
-You need to pack up
-Lionel
-Guiding Station
-Reference Beacons
-Map Server
-and recharge all the batteries
+Remember: If you do not need to add extra equipment and encounter no errors, you do not need to do anything during the job
+You need to clean: 1. The paint tank and its pipe. 2. Lionel’s spray nozzle. 3. Lionel’s pipes
+You need to replace: 1. The spray nozzle’s foam cap
+You need to pack up: 1. Lionel. 2. Guiding Station. 3. Reference Beacons. 4. Map Server. 5. and recharge all the batteries
 You will need the syringe, cleaning pipes and dredging needles
 You can pack down the Reference Beacons as soon as all Guiding Stations have been calibrated
-
-
-
-142:
-Clean: the paint tank and its pipe 
-Module 6: clean up
+Clean: the paint tank and its pipe
 Release the paint tank from Lionel’s compartment by pushing the silver tab
 Uncap the lid from the tank, taking care not to drip too much paint
 Rinse the tank and the pipe with (ideally warm) water
@@ -1869,24 +314,12 @@ Take the correct cleaning pipe and connect one end to the syringe and the other 
 Use the syringe to push water through the pipe. Repeat this a few times
 Rinse the filter with water if there is still paint caught in it
 Please note: Executing these steps after every job is a condition of warranty
-
-
-
-
-143:
 Clean: the spray nozzle
-Module 6: clean up
 Fill the cleaning syringe with water
 Attach the nozzle to the syringe and push water through the nozzle
 Dredge the nozzle and rinse with water
 Please note: Executing these steps after every job is a condition of warranty
-
-
-
-
-144:
 Clean: Lionel’s pipes
-Module 6: clean up
 Take a clean paint tank, fill it with water and screw on its lid
 Insert the tank into Lionel’s compartment and attach the pipe
 Press and hold the ‘Preload’ button to allow the water to flush through Lionel’s pipes and out the nozzle. Gently press the pipe walls together to remove any remaining paint residue.
@@ -1894,16 +327,9 @@ When you see a steady stream of clean water coming out of the nozzle, release th
 Release the paint tank from Lionel’s compartment by pushing the silver tab
 Push the ‘Preload’ button again to drive air through Lionel’s pipes to push out the remaining water
 Please note: Executing these steps after every job is a condition of warranty
-
-
-
-
-145:
 Replace: the spray nozzle’s foam cap
-Module 6: clean up
 Please note: Executing these steps after every job is a condition of warranty
 The foam cap exists to prevent Lionel’s spray nozzle from drying out. Replace the foam cap after every job
-
 Loosen the screw on the right side of Lionel’s nozzle
 Lift up the nozzle
 Take out the old foam cap
@@ -1911,251 +337,64 @@ Take the cylindrical puncher and a new piece of foam from the maintenance box
 Press the puncher hard into the foam to carve out a round piece of foam
 Place the new foam cap into the holder
 Tighten the screw
-
-
-
-
-146:
-
 After cleaning Lionel, pack up all the equipment and charge the batteries
-Module 6: clean up
-Lionel
-Guiding Station
-Reference Beacons
-Map Server
-Turn it off
 Use a damp cloth to wipe down Lionel’s outer shell
 Take out the battery and charge it
 Once the battery is fully charged, cut off the power
 Please note: Executing these steps after every job is a condition of warranty
-Turn it off
-Disconnect the battery and charge it
-Once the battery is fully charged, cut off the power
 Turn off their downward lasers once they are properly placed
 Remove the Reference Beacons from the floor once the Guiding Station has been calibrated
 Turn off the small battery. Disconnect it and charge it
 Disassemble the beacons from their stand and put them back in the box
-Turn it off
 Place all cables and accessories back into the box
-Disconnect the battery and charge it
-Once the battery is fully charged, cut off the power
-
-147:
-Lionel Training Course
-Last  | Go to the User Portal to download the latest version
-Confidential – do not distribute
-Module 7: Proactive Care & Troubleshooting
-
-148:
-Where are we?
-Module 7: PROACTIVE CARE and troubleshooting
-Overview
-Introducing the components of the Lionel system – Robot, Guiding Station, Reference Beacon, Map Server – and how they work together
-Module 1
-Map Upload
-Walking through how to use the User Portal to upload, process and edit your maps
-Module 2
-On-Site Preparation
-Demonstrating steps to take on-site before the job: charging batteries, opening the Map Server Box, syncing the latest map and preparing the paint
-Module 3
-Equipment Set-Up
-Demonstrating how to set up and calibrate the equipment on-site (the Reference Beacons, Guiding Station and Lionel Robot)
-Module 4
-Job Supervision
-Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
-Module 5
-Clean Up
-Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
-Module 6
-Proactive Care & Troubleshooting
-Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods 
-Module 7
-
-In the office
-
-On-site
-
-
-
-
-149:
-There are four categories of care and troubleshooting
-Module 7: proactive care and troubleshooting
-Proactive Care 
-Proactive Service 
-Basic Troubleshooting
-Advanced Troubleshooting
-The User
-August Robotics
-The User
-August Robotics
-Performed by
-Category
-
-
-Covered in this document?
+There are four categories of care and troubleshooting: 1. Proactive Care 2. Proactive Service 3. Basic Troubleshooting 4. Advanced Troubleshooting
+Covered in this document:
 Steps the user needs to perform to care for the equipment after every job or every month
 Advanced steps an August Robotics engineer will perform to care for the equipment after every 6,000 marks or every year
 Basic steps the user can try if something is not working well
 If, after trying basic troubleshooting, there are still issues, contact your August Robotics representative
-
-150:
-
-There are four categories of care and troubleshooting
-Module 7: proactive care and troubleshooting
-Proactive Care 
-Proactive Service 
-Basic Troubleshooting
-Advanced Troubleshooting
-The User
-August Robotics
-The User
-August Robotics
-Performed by
-Category
-
-
-
-
-Covered in this document?
-Steps the user needs to perform to care for the equipment after every job or every month
-Advanced steps an August Robotics engineer will perform to care for the equipment after every 6,000 marks or every year
-Basic steps the user can try if something is not working well
-If, after trying basic troubleshooting, there are still issues, contact your August Robotics representative
-
-151:
-Proactive Care for Lionel: 
-General Check-Up
-Module 7: proactive care and troubleshooting
-Before turning on Lionel, manually move the robot back and forth and side to side to check that no wheels are stuck
-Ensure that all screws are tight, including the screws on the spray system, the screws on the wheels and the screws on the camera beacon
-Ensure that the camera beacon can rotate freely without any abnormal resistance within its working range
-Clean Lionel by wiping its outer shell
-
-Frequency:
-Before and after every job
-Please note: Executing these steps is a condition of warranty. You must do this in addition to all the steps in the ‘Clean Up’ module
-
-
-
-
-152:
-Proactive Care for Lionel: 
-Paint System
-Module 7: proactive care and troubleshooting
+Proactive Care for Lionel: Paint System
 Check that the tube of the paint tank is not blocked
 Check that the nozzle is not blocked by pressing the ‘Preload’ button and painting a test mark
 If it is blocked, clean the spray nozzle – follow the instructions in Module 6.
 Alternatively, change to a new nozzle (5 nozzles are provided per robot)
 Replace the foam cap after every job – follow the instructions in Module 6 
 Wet the foam cap before every job
-
-Frequency:
-Before and after every job
+Frequency: Before and after every job
 Please note: Executing these steps is a condition of warranty. You must do this in addition to all the steps in the ‘Clean Up’ module
-
-153:
-Proactive Care for Lionel: 
-Base
-Module 7: proactive care and troubleshooting
+Proactive Care for Lionel: Base
 Ensure that each wheel is facing the correct angle – parallel to each other and to the body of the robot
 Ensure that each wheel is screwed tightly to the base
 Manually move the robot back and forth and side to side to check that no wheels are stuck
-
-Frequency:
-Once a month
+Frequency: Once a month
 Please note: Executing these steps is a condition of warranty. You must do this in addition to all the steps in the ‘Clean Up’ module
-
-
-
-
-154:
-Proactive Care for Guiding Station: 
-General Check-Up
-Module 7: proactive care and troubleshooting
-
-Frequency:
-Before and after every job
+Proactive Care for Guiding Station: General Check-Up
+Frequency: Before and after every job
 Please note: Executing these steps is a condition of warranty. You must do this in addition to all the steps in the ‘Clean Up’ module
 Ensure that none of the Guiding Station’s four feet are loose when lifting the Guiding Station, and that they are steady and firm when standing on the ground
 Ensure the bolts on the Guiding Station’s levelling board are fixed tight
 Ensure that the camera beacon can rotate freely without any abnormal resistance within its working range
-
-
-
-
-155:
-Proactive Care for Reference Beacons: 
-General Check-Up
-Module 7: proactive care and troubleshooting
+Proactive Care for Reference Beacons: General Check-Up
 Please note: Executing these steps is a condition of warranty. You must do this in addition to all the steps in the ‘Clean Up’ module
 Ensure the downward pointing laser is working properly. Press the red button to turn it on and off.
 If the laser is not working, replace the AAA battery
 Ensure that none of the Reference Beacons’ feet are loose when lifting the Reference Beacon, and that they are steady and firm when standing on the ground
-
-Frequency:
-Before and after every job
-
-
-
-
-156:
+Frequency: Before and after every job
 Proactive Care for All Batteries
-Module 7: proactive care and troubleshooting
 Before connecting any battery to any equipment, ensure there is no observable damage to the battery, including the outlet cable, connectors and the battery shell
 Charge all batteries using the charging station the day before the job
 Ensure that all batteries are charged and discharged / used once every two months
-
-Frequency:
-Before and after every job
+Frequency:Before and after every job
 Please note: Executing these steps is a condition of warranty. You must do this in addition to all the steps in the ‘Clean Up’ module
-
-
-
-
-157:
-
-There are four categories of care and troubleshooting
-Module 7: proactive care and troubleshooting
-Proactive Care 
-Proactive Service 
-Basic Troubleshooting
-Advanced Troubleshooting
-The User
-August Robotics
-The User
-August Robotics
-Performed by
-Category
-
-
-
-
-Covered in this document?
-Steps the user needs to perform to care for the equipment after every job or every month
-Advanced steps an August Robotics engineer will perform to care for the equipment after every 6,000 marks or every year
-Basic steps the user can try if something is not working well
-If, after trying basic troubleshooting, there are still issues, contact your August Robotics representative
-
-158:
 Issue 1: Mark quality is poor (1/4)
-Module 7: proactive care and troubleshooting
 Complete and fully formed
 Clear and crisp lines
 Good paint coverage
-A good quality mark should be...
-There are two types of issues
-Mark quality is inconsistent
-Mark quality is good at the start but poor later on
-
-159:
+There are two types of issues: 1.Mark quality is inconsistent; 2.Mark quality is good at the start but poor later on
 Issue 1: Mark quality is poor (2/4)
-Module 7: proactive care and troubleshooting
 Mark quality is inconsistent
-1a)
-Potential Root Cause
-Suggested Action
-The spray nozzle is blocked
+Potential Root Cause: The spray nozzle is blocked
+Suggested Action:
 Press and hold the ‘Preload’ button for longer and see if the marks improve
 Uninstall the nozzle and wash it clean. Attach the nozzle to the cleaning syringe and push water through the nozzle 
 Use a 0.2 to 0.3mm metal needle to dredge the nozzle and rinse with water
@@ -2163,54 +402,30 @@ Change to a new nozzle
 There are bubbles or particles in the paint
 Hold the ‘Preload’ button and check if there are bubbles in the pipe system. If so, open the paint tank and check the paint mixture
 Stir the paint mixture. If there are bubbles, carefully stir to remove the bubbles
-
-
-160:
 Issue 1: Mark quality is poor (3/4)
-Module 7: proactive care and troubleshooting
 Mark quality is inconsistent (continued)
-Potential Root Cause
-Suggested Action
-There are old paint clots in the pipe system
-(If the user does not clean the paint system after each job, the residual paint will dry and block the pipeline)
+Potential Root Cause: There are old paint clots in the pipe system (If the user does not clean the paint system after each job, the residual paint will dry and block the pipeline)
+Suggested Action:
 Follow the instructions in the cleaning module to flush water through Lionel’s pipes 
 If the above does not work, connect a cleaning syringe to the cleaning pipe. Short circuit Lionel’s pipe system by disconnecting the pipe from the orange pump and connecting it to the cleaning pipe (see pictures). The purpose is to prevent water travelling through the orange pump. If water travels through the pump, the pump will be damaged. Then, use the syringe to push water through the pipes
 Things are not properly connected in the pipe system
-Check that every connector in the pipe system (from the paint tank to the nozzle) are properly connected 
-
-
-161:
+Check that every connector in the pipe system (from the paint tank to the nozzle) are properly connected
 Issue 1: Mark quality is poor (4/4)
-Module 7: proactive care and troubleshooting
 Mark quality is good at the start but poor later on
-1b)
-Potential Root Cause
-Suggested Action
-The nozzle does not have a wet foam cap
+Potential Root Cause: The nozzle does not have a wet foam cap
+Suggested Action:
 Ensure there is a new foam cap for Lionel’s nozzle before every job 
 Ensure you have added water to the foam cap before every job
-
-
-162:
 Issue 2: Right location, wrong mark
-Module 7: proactive care and troubleshooting
-Potential Root Cause
-The CAD file was not clean and the map was incorrectly parsed in the User Portal
+Potential Root Cause: The CAD file was not clean and the map was incorrectly parsed in the User Portal
+Suggested Action:
 Select the mark in the Map Server Interface and check whether the mark shape is correct
 If the mark is incorrect, click “Disable” to delete the mark
 You can use the Map Server Interface to add a new mark
 Lionel marked in the right location but with the wrong shape (e.g. the user wanted a “L” corner but Lionel marked a “T”)
-Suggested Action
-
-
-
-163:
-Issue 3: Lionel or Guiding Station unable to connect
-Module 7: proactive care and troubleshooting
-Potential Root Cause
-The hardware is not connected properly
-Even after connecting a Mesh Router to Lionel / Guiding Station, the Lionel / Station is still in a “not connected” state
-Suggested Action
+Issue 3: Lionel or Guiding Station unable to connect. The hardware is not connected properly.
+Potential Root Cause: Even after connecting a Mesh Router to Lionel / Guiding Station, the Lionel / Station is still in a “not connected” state
+Suggested Action:
 Ensure the Mesh Router’s internet cable and power cable are properly connected to the Lionel / Guiding Station
 The Mesh Router you are using does not match the Map Server
 (You cannot use Mesh Routers from different Map Server boxes at the same time)
@@ -2220,14 +435,9 @@ Use a different Mesh Router from the Map Server box and try again
 The Lionel / Guiding Station hardware has not been properly started
 Ensure the battery on Lionel / Guiding Station is properly connected
 Restart the Lionel / Guiding Station by pressing the red switch and wait two minutes for the equipment to boot up
-
-164:
-Issue 4: Guiding Station cannot locate the Reference Beacon
-Module 7: proactive care and troubleshooting
-When trying to calibrate the Guiding Station, the Guiding Station fails locate the Reference Beacons
-Potential Root Cause
-The Guiding Station has not been placed in the correct Home Base
-Suggested Action (before restarting calibration)
+Issue 4: Guiding Station cannot locate the Reference Beacon. When trying to calibrate the Guiding Station, the Guiding Station fails locate the Reference Beacons
+Potential Root Cause: The Guiding Station has not been placed in the correct Home Base
+Suggested Action (before restarting calibration):
 Ensure you have placed the Guiding Station in the Home Base suggested by August Robotics
 If you have placed the Guiding Station in a different place, check that on the Map Server interface, you have indicated you are using a customised Home Base and have moved the Guiding Station icon
 The Guiding Station has not been placed in the correct orientation
@@ -2236,117 +446,54 @@ The two Reference Beacons have not been placed on top of the Reference Points
 Ensure the two Reference Beacons are directly on top of the Reference Points, and that the downward lasers are aligned and the levelling bubbles centred
 One of or both Reference Beacons have not been turned on
 Check that the blue and green LED lights on both Beacons are on. If not, swap in a beacon from the inventory
-
-165:
-Issue 5: Lionel cannot locate the Guiding Station
-Module 7: proactive care and troubleshooting
-When trying to calibrate Lionel, Lionel fails to locate the Guiding Station
-Potential Root Cause
-Lionel has not been placed in the correct Home Base
+Issue 5: Lionel cannot locate the Guiding Station. When trying to calibrate Lionel, Lionel fails to locate the Guiding Station.
+Potential Root Cause: Lionel has not been placed in the correct Home Base
 Suggested Action (before restarting calibration)
 Ensure you have placed Lionel in the Home Base suggested by August Robotics
 If you have placed Lionel in a different place, check that on the Map Server interface, you have indicated you are using a customised Home Base and have moved the Lionel icon
 Lionel has not been placed in the correct orientation
 Ensure the physical Lionel robot in the hall is facing the same orientation as the Lionel icon on the Map Server Interface
-
-166:
-Issue 6: Lionel tries but fails to localise
-Module 7: proactive care and troubleshooting
-Lionel moves and continues to localise but does not paint the mark, and eventually skips it. This occurs for a few marks
-Potential Root Cause
-There is too much light in the environment
-Suggested Action (before restarting calibration)
+Issue 6: Lionel tries but fails to localise. Lionel moves and continues to localise but does not paint the mark, and eventually skips it. This occurs for a few marks
+Potential Root Cause: There is too much light in the environment
+Suggested Action (before restarting calibration):
 (In rare cases, strong light behind Lionel or the Guiding Station impairs the localisation process)
 Reduce the light in the environment (e.g. close the doors / blinds, stand behind the equipment for a few minutes to block the strong light)
-Lionel moves and continues to localise but does not paint the mark, and eventually skips it. This occurs for most of or all the marks
-Potential Root Cause
-NA
-Suggested Action (before restarting calibration)
+Issue 7: Lionel moves and continues to localise but does not paint the mark, and eventually skips it. This occurs for most of or all the marks
+Potential Root Cause: malfunction on the sensors
+Suggested Action (before restarting calibration):
 Restart both the Lionel robot and the Guiding Station by pressing the red switch
 Check the Map Server interface for any errors and follow the instructions to resolve
 The camera on Lionel or the Guiding Station is blocked (unlikely)
 Remove the object blocking the camera
-
-167:
 The Map Server Interface will provide error codes for issues and suggested actions
-Module 7: proactive care and troubleshooting
 Here is a sample of the most common error codes
 The Map Server will alert you of errors and provide suggested actions for each error. If you cannot solve the issue after following the instructions, please record the error code and contact August Robotics
-Name
-Cause
-Suggested Action
-Error Code
-00101
-No dynamic power
-E-stop has been pushed or the robot is not powered on
-Release the E-Stop button. Restart the robot if the error persists
-00102
-E-Stop pushed
-No power to the chassis while the robot is powered on
-Release the E-Stop button
-12103
-Last mark result not good
-Based on the camera’s auto-check, the quality of the last mark is not good
-Manually check the quality of the last mark
-13003
-On ERROR
-The node is in an error state due to an issue
-Press ‘Reset’. Restart the robot if the error persists
-50201
-Board offline
-The PC has issues connecting to the controller board
-Open the yellow cover of the robot and check that the USB connectors are plugged in
-
-
-168:
+Error Code: 00101; Name: No dynamic power; Cause: E-stop has been pushed or the robot is not powered on; Suggested Action: Release the E-Stop button. Restart the robot if the error persists
+Error Code: 00102; Name: E-Stop pushed; Cause: No power to the chassis while the robot is powered on; Suggested Action: Release the E-Stop button
+Error Code: 12103; Name: Last mark result not good; Cause: Based on the camera’s auto-check, the quality of the last mark is not good; Suggested Action: Manually check the quality of the last mark
+Error Code: 13003; Name: On ERROR; Cause: The node is in an error state due to an issue; Suggested Action: Press ‘Reset’. Restart the robot if the error persists
+Error Code: 50201; Name: Board offline; Cause: The PC has issues connecting to the controller board; Suggested Action: Open the yellow cover of the robot and check that the USB connectors are plugged in
 If you need help, you can speak to our Global Support team
-Module 7: proactive care and troubleshooting
-
-Go to the ‘Help’ section 
-Click the talk icon
-
-
-
-169:
-If you need help, you can speak to our Global Support team
-Module 7: proactive care and troubleshooting
-
+Go to the ‘Help’ section. Click the talk icon
 Scan the QR code using your phone
 You will be able to speak to an August Robotics  representative 
 Alternatively, email us at support@augustrobotics.com
-
-
-170:
-Advanced Operations
-
-
-171:
-In this section, we introduce 2 Advanced Operations features for advanced users
-Advanced operations
+Advanced operations:
 Tailor your operations to best suit your specific floor marking needs and workflows. You have the ability to adjust several key settings:
-
 Path Algorithm: Choose between optimized path algorithm or Snake Path to determine how Lionel will navigate between marks
 Mark Setting: Adjust a variety of mark settings allowing you to customize the mark-out, including mark size, line type, mark offset and more
 Speed: Adjust Lionel's travel speed, which impacts the accuracy of marking placement - higher speeds reduce accuracy while lower speeds increase precision
 Priority Area: Define the area you would like Lionel to mark first
-Adjust the job settings 
+Adjust the job settings:
 The Priority Area feature allows you to designate specific marking locations as high importance. When setting up a job, draw priority areas and Lionel will then plan its path to first complete all markings within the priority areas before moving to other locations.
 This provides control to ensure critical areas are always marked first while optimizing overall efficiency. Priority area selection gives precise workflow management tailored to your event needs.
-
-
-172:
-Change the settings according to your job needs
-Advanced operations
 Before running the job, go to the Settings page to:
 Select whether you would like to use Lionel’s optimized path or the Snake Path which allows you to move in a horizontal and vertical path
 Select the line type (single or double), mark size, text type and offset
 Select the speed by adjusting the accuracy tolerance
 The highest accuracy will be the slowest and vice versa
-
-
-173:
 Priority Area: Mark your highest priority area first
-Advanced operations
+Advanced operations:
 To add a priority area, tap the "Priority Area" icon in the job settings menu
 Press “add” icon and a rectangle will appear - drag it to place over the desired area on the floor plan
 Use the multi select tool to draw the priority area on the map
@@ -2355,5 +502,3 @@ You can add up to 3 separate priority areas per job
 To edit a priority area, tap the edit icon then drag or resize as needed
 To remove a priority area, tap the Delete icon
 After you have defined the priority area, pause and then restart any active robots. The robots will then be assigned to the priority area
-
-
