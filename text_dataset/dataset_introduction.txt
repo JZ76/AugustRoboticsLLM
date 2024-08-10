@@ -12,13 +12,21 @@ United States: Key customer service hub; Europe: Key customer service hub; Asia:
 Floor marking refers to the actual marking of the convention center or expo hall floor with tape or pen or another material to show the edges of each booth location.
 Each exhibitor’s carpet, booth structure, and signage must be installed within the parameters of the marks.
 Previously, each marking had to be applied to the hall floor with adhesive tape by hand. Depending on the effort involved, a manual measurement took around three working days for three people. Today, two Lionel robots can do this job in around ten hours.
-Lionel is August Robotics’ flagship solution. A single robot makes an average of 80 marks per hour, allowing you to speed up floor marking and the exhibition set-up process
+Lionel robot makes an average of 80 marks per hour, allowing you to speed up floor marking and the exhibition set-up process
 Lionel marks with sub-5mm precision and without the accumulation of errors, resulting in a hassle-free perfect layout
 Lionel is purpose-built for exhibition layouts and can mark anything you need – booth corners, numbers, text and other symbols. Once Lionel starts working, it is fully autonomous and requires minimal supervision, freeing you up for other activities
 Lionel can be used by anyone – no robotics or engineering experience is required
 Lionel is the smarter way to mark exhibition floors
 The Lionel system takes your digital floor plan and marks the essential information on the physical floor
 Lionel can mark anything, as its spray mechanism has a full range of motion. The most common marks: Booth corners, Booth numbers, Electricity marks, and Rigging points
+Guiding Station: A stationary piece of equipment that helps the robot to understand its location in the hall to place marks accurately
+The Guiding Station enables Lionel to understand and adjust its location. The Guiding Station is placed in a fixed and known location in the hall
+As the robot moves around the hall, the Guiding Station uses its camera to track beacon (LED) and laser to ascertain Lionel’s location
+This enables Lionel to understand and adjust its position, and to place marks with high accuracy
+For more details of how the Guiding Station find the precise location of Lionel and itself. All these three devices have beacon, LED lights, attached to their top, but with different color.
+To locate the Guiding Station itself, first, the camera on the Guiding Station will rotate in horizontal and vertical to search for the certain color of Reference Beacons (blue and green), once the camera find the LED light and lock on, the laser measurement unit will start measure the distance. Since the position of Reference Beacon is known, so the position of Guiding Station can be calculated by using Law of cosines.
+To locate a Lionel robot, first, the camera on both the Lionel and Guiding Station will search for each other, once the camera lock on, the laser measurement unit on the Guiding station will take a distance measurement which can get the x and y coordinates of the Lionel. And the Lionel will also know its theta angle on the map by using the radians of the camera rotation.
+Hence, our localisation does NOT depend on technology like GPS or SLAM, it is more like a total guiding station which used a lot in civil engineering.
 How does the system work? Determine Reference Points for the hall. Set up the two Reference Beacons. Set up and calibrate the Guiding Station. Set up and calibrate the Lionel robot. Run the job. Open the Map Server
 How does the system work on-site? We put down two Reference Points in every hall. The points will typically be close to a prominent feature in the hall (such as a wall or a pillar), and will be physically marked before the job day (e.g. with a nail in the floor)
 The Reference Points allow us to “match” the digital plan with the physical environment
@@ -29,34 +37,35 @@ Then, the Lionel robot is set up and placed on the floor, somewhere where it has
 By measuring its distance and rotational angle to the Guiding Station, the Lionel robot can determine its position, Lionel can now start marking marks
 The Guiding Station acts as a lighthouse for Lionel throughout the job. Lionel communicates with the Guiding Station to ensure its position is accurate before placing each mark
 User Portal: A system that the CAD team uses before the day of the job to upload the maps and have them automatically processed for the Lionel system
+The Guiding Station has Laser Measurement Unit, Camera Beacon.
+Camera Beacon: this contains two parts: camera which can move in vertical and horizontal direction; beacon which is a green and red color LED.
+Laser Measurement Unit: a distance measurement device using time-of-fly of laser beam.
 The Lionel system includes hardware and software components
 Hardware: Lionel Robot, Guiding Station, Reference Beacons, Other Equipment, Map Server Box
 Lionel Robot: Four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls
-Guiding Station: A stationary piece of equipment that helps the robot to understand its location in the hall to place marks accurately
-Reference Beacons: Two beacons placed on reference points in the hall during the set-up process to allow the Guiding Station to calculate its position
+Reference Beacons: Two beacons (LED light) with blue and green color placed on reference points in the hall during the set-up process to allow the Guiding Station to calculate its position
 Other Equipment: Other physical items required on-site, such as batteries, paint preparation materials and maintenance kit
 Map Server Box: A physical box that contains a PC (the “brain” of the system), routers, and a tablet with the Map Server Interface; allows on-site operators to set up and run the job
 Map Server Interface: A system that the CAD team and on-site operators use to retrieve maps, set up the physical equipment and run the floor marking job. This module will introduce the hardware of the Lionel system. Later modules will walk through how to set up the software and hardware
 Lionel is a four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls.
-Camera Beacon: to enable the Guiding Station to locate Lionel and guide it to the accurate position;
-Multiple Sensors: for intelligent and safe navigation in busy environments;
+Lionel has Camera Beacon, Multiple Sensors, Mobile Base, Mesh Router, Spray Marking Mechanism, Emergency Stop, AI Powered Marking Camera, Maintenance Door, Paint Tank, Battery holder
+Camera Beacon: this contains two parts: camera which can move in vertical and horizontal direction; beacon which is a green and red color LED.
+Multiple Sensors: for intelligent and safe navigation in busy environments, including: LiDAR, sonar, and depth camera;
 Mobile Base: with omnidirectional wheels for flexible and agile movement;
 Mesh Router: to enable the robot to communicate with the Map Server;
-Spray Marking Mechanism: that can make any type of mark on any type of ground surface;
-Emergency Stop: to stop the robot in emergency situations;
-AI Powered Marking Camera: to validate the quality of marks
+Spray Marking Mechanism: It is just like a 2D printer, the servos can let the spray head move in X and Y directions, so that can make any shape of mark on any type of ground surface;
+Emergency Stop: to stop the robot in emergency situations immediately;
+AI Powered Marking Camera: to validate the quality of marks, by taking a photo of it just after spray mechanism done its work.
 Maintenance Door: to enable reactive troubleshooting and proactive maintenance;
 Paint Tank: to store the paint required for marking;
 Battery holder: to connect and hold pre-charged batteries;
-The Guiding Station enables Lionel to understand and adjust its location. The Guiding Station is placed in a fixed and known location in the hall
-As the robot moves around the hall, the Guiding Station uses its camera beacon and laser to ascertain Lionel’s location
-This enables Lionel to understand and adjust its position, and to place marks with high accuracy
 The two Reference Beacons enable the Guiding Station to calculate its position. During the set-up process, each Reference Beacon is precisely placed in a pre-defined reference location in the hall
 The Guiding Station will calculate its position relative to the Reference Beacons, and thereby calculate its own position in the hall
 After the set-up process, the Reference Beacons can be removed, unless additional Guiding Stations need to be added
 The Map Server Box: The Map Server is the “brain” of the Lionel system and connects all the components of the system
 The Map Server Box refers to a physical black box (shown here)
 Tablet with Map Server Interface: that on-site operators use to access the Map Server Interface through a browser
+The Map Server Box contains: seven Mesh Routers, Map Server computer, Power switch, Accessory Bag/
 Mesh Routers: that are connected to the robot and Guiding Station to establish communication within the system
 Map Server: the “brain” that controls the equipment in the system, can be accessed by using the provided tablet with browser
 Power switch: to turn on the Map Server box
@@ -136,11 +145,7 @@ The list of maps you have pulled from the User Portal to the Map Server will be 
 Click on the eye icon to view and the pencil icon to edit a map on the Map Server
 Try not to edit maps on the Map Server unless necessary. It is easier to edit maps in the User Portal before the job day
 Pinch the screen to zoom in on different sections of the map
-There are 4 buttons on the bottom right of the map
-Zoom in/out and move around the map
-Drag or click to select marks and obstacles
-Click to see coordinates on the map
-Click to reset the map view
+There are 4 buttons on the bottom right of the map: 1. Zoom in/out and move around the map; 2. Drag or click to select marks and obstacles; 3. Click to see coordinates on the map; 4. Click to reset the map view
 Inspect the map: Legend
 The multicolored button on the left opens a pop-up window to view/hide and/or highlight specific type of marks and information
 Clicking Flagged Marks  highlights marks which may not be perfectly painted on the floor
