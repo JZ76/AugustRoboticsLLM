@@ -6,10 +6,12 @@ Module 3: Equipment Set-Up: Demonstrating how to set up and calibrate the equipm
 Module 4: Job Supervision: Demonstrating how to use the Map Server to monitor Lionel as it marks your floors
 Module 5: Clean Up: Demonstrating the steps you need to take after Lionel completes a job to care for the equipment
 Module 6: Proactive Care & Troubleshooting: Demonstrating the proactive maintenance processes you need to perform and the common reactive troubleshooting methods
-August Robotics is a global leader in mobile robotics.
+August Robotics is a global leader in mobile robotics. We aims to using Lionel robot for automatically doing the floor marking
 United States: Key customer service hub; Europe: Key customer service hub; Asia: Commercial and robot development centre
 2017: August Robotics founded; Mid 2019: First Lionel commercially deployed in Germany; Aug 2022: Lionel made its 100,000th mark; End 2022: Launch of lease offering – users can set up and operate Lionel without needing August Robotics’ engineers on-site
-Our mission is to automate dirty, dangerous and dull jobs with user-friendly and affordable robots
+Floor marking refers to the actual marking of the convention center or expo hall floor with tape or pen or another material to show the edges of each booth location.
+Each exhibitor’s carpet, booth structure, and signage must be installed within the parameters of the marks.
+Previously, each marking had to be applied to the hall floor with adhesive tape by hand. Depending on the effort involved, a manual measurement took around three working days for three people. Today, two Lionel robots can do this job in around ten hours.
 Lionel is August Robotics’ flagship solution. A single robot makes an average of 80 marks per hour, allowing you to speed up floor marking and the exhibition set-up process
 Lionel marks with sub-5mm precision and without the accumulation of errors, resulting in a hassle-free perfect layout
 Lionel is purpose-built for exhibition layouts and can mark anything you need – booth corners, numbers, text and other symbols. Once Lionel starts working, it is fully autonomous and requires minimal supervision, freeing you up for other activities
@@ -24,8 +26,7 @@ On the job day, the user opens the Map Server and its Tablet, selects the show t
 Then, a Guiding Station is placed in the hall, somewhere where it has line of sight to both Reference Beacons. By measuring its distance to the Reference Beacons, the Guiding Station can determine its position
 After this, the Reference Beacons are no longer required
 Then, the Lionel robot is set up and placed on the floor, somewhere where it has line of sight to the Guiding Station
-By measuring its distance and rotational angle to the Guiding Station, the Lionel robot can determine its position
-Lionel can now start marking marks
+By measuring its distance and rotational angle to the Guiding Station, the Lionel robot can determine its position, Lionel can now start marking marks
 The Guiding Station acts as a lighthouse for Lionel throughout the job. Lionel communicates with the Guiding Station to ensure its position is accurate before placing each mark
 User Portal: A system that the CAD team uses before the day of the job to upload the maps and have them automatically processed for the Lionel system
 The Lionel system includes hardware and software components
@@ -55,17 +56,17 @@ The Guiding Station will calculate its position relative to the Reference Beacon
 After the set-up process, the Reference Beacons can be removed, unless additional Guiding Stations need to be added
 The Map Server Box: The Map Server is the “brain” of the Lionel system and connects all the components of the system
 The Map Server Box refers to a physical black box (shown here)
-Tablet with Map Server Interface: that on-site operators use to access the Map Server Interface
+Tablet with Map Server Interface: that on-site operators use to access the Map Server Interface through a browser
 Mesh Routers: that are connected to the robot and Guiding Station to establish communication within the system
-Map Server: the “brain” that controls the equipment in the system
+Map Server: the “brain” that controls the equipment in the system, can be accessed by using the provided tablet with browser
 Power switch: to turn on the Map Server box
 Accessory Bag: with seven cords and accessories
-Appendix: Lionel Robot Technical Specifications: Weight: 48 kg; Footprint: 82 cm long, 40 cm wide, 113 cm tall; Localisation Accuracy: + / - 5mm accuracy (default accuracy); Battery life: 10 hours (additional batteries can be pre-charged); Marking method: Either permanent or washable paint; Payload: 1L of paint; Working Temperature: Can work between 0 and 40 degrees Celsius; Speed: Maximum speed 1.2 m/s; Battery: 24V voltage, 30Ah capacity; Battery charging time: 5 hours
-Appendix: Guiding Station Technical Specifications: Weight: 21 kg; Footprint: 38 cm long, 38 cm wide, 120 cm tall; Localisation Accuracy: + / - 5mm accuracy (default accuracy); Battery life: 12 hours (additional batteries can be pre-charged); Working Temperature: Can work between 0 and 40 degrees Celsius; Localisation Range: Optimal range within 60m, maximum range 80m; Battery: 24V voltage, 30Ah capacity; Battery charging time: 5 hours
+Lionel Robot Technical Specifications: Weight: 48 kg; Footprint: 82 cm long, 40 cm wide, 113 cm tall; Localisation Accuracy: + / - 5mm accuracy (default accuracy); Battery life: 10 hours (additional batteries can be pre-charged); Marking method: Either permanent or washable paint; Payload: 1L of paint; Working Temperature: Can work between 0 and 40 degrees Celsius; Speed: Maximum speed 1.2 m/s; Battery: 24V voltage, 30Ah capacity; Battery charging time: 5 hours
+Guiding Station Technical Specifications: Weight: 21 kg; Footprint: 38 cm long, 38 cm wide, 120 cm tall; Localisation Accuracy: + / - 5mm accuracy (default accuracy); Battery life: 12 hours (additional batteries can be pre-charged); Working Temperature: Can work between 0 and 40 degrees Celsius; Localisation Range: Optimal range within 60m, maximum range 80m; Battery: 24V voltage, 30Ah capacity; Battery charging time: 5 hours
 How does this all work together?
 MAP UPLOAD: Requires access to internet (office Wi-Fi, Hall Wi-Fi or Mi-Fi) portal.augustrobotics.com
 In the office, CAD team/ Technical Manager upload and parse the CAD file. When you parse, you label the layers for Lionel’s software
-The Map Server has its own local network. This connects the Map Server to the tablet and devices
+The Map Server has its own local network and webpage. This connects the Map Server to the tablet and devices
 Optional: If you want to monitor the job remotely, keep the Map Server connected to the internet
 Lionel system operates independently. On the tablet, operator downloads map from the portal onto the Map Server. Does not require internet: Office Wi-Fi, Hall Wi-Fi or Mi-Fi
 We will create a CAD template for each of your halls for the client portal map processing 
@@ -391,7 +392,7 @@ Complete and fully formed
 Clear and crisp lines
 Good paint coverage
 There are two types of issues: 1.Mark quality is inconsistent; 2.Mark quality is good at the start but poor later on
-Issue 1: Mark quality is poor (2/4)
+Issue 1: None (2/4)
 Mark quality is inconsistent
 Potential Root Cause: The spray nozzle is blocked
 Suggested Action:
