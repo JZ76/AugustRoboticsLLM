@@ -21,35 +21,35 @@ The Lionel system takes your digital floor plan and marks the essential informat
 Lionel can mark anything, as its spray mechanism has a full range of motion. The most common marks: Booth corners, Booth numbers, Electricity marks, and Rigging points
 Guiding Station: A stationary piece of equipment that helps the robot to understand its location in the hall to place marks accurately
 The Guiding Station enables Lionel to understand and adjust its location. The Guiding Station is placed in a fixed and known location in the hall
-As the robot moves around the hall, the Guiding Station uses its camera to track beacon (LED) and laser to ascertain Lionel’s location
+As the Lionel robot moves around the hall, the Guiding Station uses its camera to track beacon on the Lionel and laser to ascertain Lionel’s location
 This enables Lionel to understand and adjust its position, and to place marks with high accuracy
-For more details of how the Guiding Station find the precise location of Lionel and itself. All these three devices have beacon, LED lights, attached to their top, but with different color.
-To locate the Guiding Station itself, first, the camera on the Guiding Station will rotate in horizontal and vertical to search for the certain color of Reference Beacons (blue and green), once the camera find the LED light and lock on, the laser measurement unit will start measure the distance. Since the position of Reference Beacon is known, so the position of Guiding Station can be calculated by using Law of cosines.
-To locate a Lionel robot, first, the camera on both the Lionel and Guiding Station will search for each other, once the camera lock on, the laser measurement unit on the Guiding station will take a distance measurement which can get the x and y coordinates of the Lionel. And the Lionel will also know its theta angle on the map by using the radians of the camera rotation.
+For more details of how the Guiding Station find the precise location of Lionel and itself.
+To locate the Guiding Station itself, first, the camera on the Guiding Station will rotate in horizontal and vertical to search for the Reference Beacons (blue and green LED), once the camera find the LED light and lock on, the laser measurement unit will start measure the distance. Since the position of Reference Beacon is known, so the position of Guiding Station can be calculated by using Law of cosines.
+To locate a Lionel robot, first, the camera on both the Lionel and Guiding Station will search for each other by looking for red and green LED lights, once the camera lock on, the laser measurement unit on the Guiding station will take a distance measurement which can get the x and y coordinates of the Lionel. And the Lionel will also know its theta angle on the map by using the radians of the camera rotation.
 Hence, our localisation does NOT depend on technology like GPS or SLAM, it is more like a total guiding station which used a lot in civil engineering.
 How does the system work? Determine Reference Points for the hall. Set up the two Reference Beacons. Set up and calibrate the Guiding Station. Set up and calibrate the Lionel robot. Run the job. Open the Map Server
 How does the system work on-site? We put down two Reference Points in every hall. The points will typically be close to a prominent feature in the hall (such as a wall or a pillar), and will be physically marked before the job day (e.g. with a nail in the floor)
 The Reference Points allow us to “match” the digital plan with the physical environment
 On the job day, the user opens the Map Server and its Tablet, selects the show to mark, and follows the instructions on the Tablet to set up the equipment
 Then, a Guiding Station is placed in the hall, somewhere where it has line of sight to both Reference Beacons. By measuring its distance to the Reference Beacons, the Guiding Station can determine its position
-After this, the Reference Beacons are no longer required
+After the Guiding Station calculated its position, the Reference Beacons are no longer required, and can be turned off
 Then, the Lionel robot is set up and placed on the floor, somewhere where it has line of sight to the Guiding Station
 By measuring its distance and rotational angle to the Guiding Station, the Lionel robot can determine its position, Lionel can now start marking marks
 The Guiding Station acts as a lighthouse for Lionel throughout the job. Lionel communicates with the Guiding Station to ensure its position is accurate before placing each mark
 User Portal: A system that the CAD team uses before the day of the job to upload the maps and have them automatically processed for the Lionel system
 The Guiding Station has Laser Measurement Unit, Camera Beacon.
-Camera Beacon: this contains two parts: camera which can move in vertical and horizontal direction; beacon which is a green and red color LED.
+Camera Beacon: this contains two parts: camera which can move in vertical and horizontal direction; beacon which is a green and red color LED lights.
 Laser Measurement Unit: a distance measurement device using time-of-fly of laser beam.
 The Lionel system includes hardware and software components
 Hardware: Lionel Robot, Guiding Station, Reference Beacons, Other Equipment, Map Server Box
 Lionel Robot: Four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls
-Reference Beacons: Two beacons (LED light) with blue and green color placed on reference points in the hall during the set-up process to allow the Guiding Station to calculate its position
+Reference Beacons: Two beacons (LED light with blue and green color on each of them) placed on the two reference points in the hall during the set-up process to allow the Guiding Station to calculate its position
 Other Equipment: Other physical items required on-site, such as batteries, paint preparation materials and maintenance kit
 Map Server Box: A physical box that contains a PC (the “brain” of the system), routers, and a tablet with the Map Server Interface; allows on-site operators to set up and run the job
 Map Server Interface: A system that the CAD team and on-site operators use to retrieve maps, set up the physical equipment and run the floor marking job. This module will introduce the hardware of the Lionel system. Later modules will walk through how to set up the software and hardware
 Lionel is a four-wheeled robot that autonomously moves, localises and makes floor markings in exhibition halls.
 Lionel has Camera Beacon, Multiple Sensors, Mobile Base, Mesh Router, Spray Marking Mechanism, Emergency Stop, AI Powered Marking Camera, Maintenance Door, Paint Tank, Battery holder
-Camera Beacon: this contains two parts: camera which can move in vertical and horizontal direction; beacon which is a green and red color LED.
+Camera Beacon: this contains two parts: camera which can move in vertical and horizontal direction; beacon which is a green and red color LED lights.
 Multiple Sensors: for intelligent and safe navigation in busy environments, including: LiDAR, sonar, and depth camera;
 Mobile Base: with omnidirectional wheels for flexible and agile movement;
 Mesh Router: to enable the robot to communicate with the Map Server;
@@ -59,6 +59,7 @@ AI Powered Marking Camera: to validate the quality of marks, by taking a photo o
 Maintenance Door: to enable reactive troubleshooting and proactive maintenance;
 Paint Tank: to store the paint required for marking;
 Battery holder: to connect and hold pre-charged batteries;
+The Guiding Station, Lionel, and Reference Beacons, all these three devices have beacon, LED lights, attached to their top, but with different color, but only Guiding Station and Lionel have camera on it, Reference Beacon does not have a camera since its position is already known.
 The two Reference Beacons enable the Guiding Station to calculate its position. During the set-up process, each Reference Beacon is precisely placed in a pre-defined reference location in the hall
 The Guiding Station will calculate its position relative to the Reference Beacons, and thereby calculate its own position in the hall
 After the set-up process, the Reference Beacons can be removed, unless additional Guiding Stations need to be added
@@ -103,9 +104,7 @@ The CAD template provided by August Robotics will already have these layers incl
 In the screenshot, we have shown the default layers from CAD template
 These layers contain the locations of all the equipment in the hall, so that the Lionel robots and Guiding Stations can locate each other
 While specifying these layers is optional, it is highly recommended
-Next, identify the layers related to the marks:
-If you want extra marks in the for long booth edges, tick this box
-If a mark is too close to an obstacle, an ‘Extension Mark’ is generated. The distance from the obstacle can be changed
+Next, identify the layers related to the marks: If you want extra marks in the for long booth edges, tick this box; If a mark is too close to an obstacle, an ‘Extension Mark’ is generated. The distance from the obstacle can be changed
 IMPORTANT: These layers must contain all the information that needs to be marked. If it is not here, it will not be marked
 Identify what needs to be marked you also have the option to generate additional marks depending on the job needs
 Where a mark is made on a tunnel cover, an extra mark can be made next to the tunnel (in case the tunnel cover is moved)
@@ -118,21 +117,16 @@ The CAD template provided by August Robotics will already have default layers in
 Parse the map:
 After the map has been parsed. Click the “View” or “Edit” icons to review
 If you need to add or revise anything, you can Edit the map you just parsed (usually used for small changes), or Upload a new DXF file (usually used if booth layouts have changed), or Re-parse the current DXF file (usually used if you made a mistake in selecting layers)
-Press F5 to refresh the page. Once the map has finished parsing, the number of marks to be painted will be displayed
+Refreshing the page. Once the map has finished parsing, the number of marks to be painted will be displayed
 ON-SITE PREPARATION:
-Before the day of the job, you will need to charge your batteries
-The number of batteries you have depends on the number of equipment you have
-One Lionel robot requires one 24V battery
-One Guiding Station requires one 24V battery OR the External Power Supply connected to a power socket
-One pair of Reference Beacons requires two 12V batteries
-One Map Server requires one 24V battery OR 110V/220V power supply from a power socket
-Charge your large 24V batteries in the large slots (there are 6 slots)
-Charge your small 12V batteries in the small slots (there are 2 slots)
+Before the day of the job, you will need to charge your batteries. The number of batteries you have depends on the number of equipment you have
+One Lionel robot requires one 24V battery; One Guiding Station requires one 24V battery OR the External Power Supply connected to a power socket; One pair of Reference Beacons requires two 12V batteries; One Map Server requires one 24V battery OR 110V/220V power supply from a power socket
+Charge your large 24V batteries in the large slots (there are 6 slots); Charge your small 12V batteries in the small slots (there are 2 slots)
 Make sure to plug the charging cable into the “IN” port
 Charge the Tablet separately or use the USB port in the Map Server box to charge the Tablet
 Use the charging station to charge all your batteries at onc
 Turn on the Tablet and open Settings to connect to the Map Server Wi-Fi. Click the Settings icon. Connect Tablet to Map Server (MSP1-00xx) Wi-Fi
-Mark sure you’re connected to MSP1-00xx. Network ID: MSP1-00XX Password: augustbase
+Mark sure you’re connected to MSP1-00xx (serial number of Map Server, xx represent numbers). Network ID: MSP1-00xx Password: augustbase
 You can open the Map Server Interface in two ways: Click on the shortcut with the August Robotics logo or Open Firefox and enter the IP address: 192.168.59.99
 Log into the Map Server Interface: Log in by entering the Username ‘operator’ and Password ‘aug’
 Pull maps from your User Portal to the Map Server: Click ‘Pull map’ to transfer map(s) from your User Portal to your Map Server
@@ -159,6 +153,7 @@ The bottom left panel is the map overview
 ‘Unpainted’ (Lionel has not yet painted the mark)
 ‘Disabled’ marks are marks that the user has requested Lionel to not paint. They may be 'Painted' (rare), 'Unpainted', ‘Enabled’, and ‘Disabled’ describe the user’s choice. ‘Painted’ and ‘Unpainted’ describe Lionel’s progress
 Total marks = Enabled marks + Disabled marks
+On the day of the job: following the four step: 1. Preparing the paint for Lionel, 2. Placing Reference Beacons to the pre-defined position, 3. Placing the Guiding Stations, 4. Preparing the Lionel. Finally, starting running the job
 Prepare the paint: August Robotics offers a range of washable paint colours: White, Yellow, Blue, Green, Red, Pink, Orange, Purple. Contact August Robotics if you wish to order more paint
 Before using, shake the paint bottle WELL to make sure the mixture is even and has no sediment – bad paint leads to bad marks
 Simple steps to start running: 1. Turn on Map Server 2. Turn on Tablet and connect Tablet to Map Server Wi-Fi 3. Open the Map Server Interface 4. Connect Map Server to the internet 5. Inspect map/s 6. Follow setup checklist 7. Calibrate Guiding Station/s and Lionel/s 8. Start map 9. Start Lionels
@@ -167,27 +162,25 @@ You can mark multiple shows at the same time, simply select more than one map an
 If you select multiple maps for a job, the maps must be for the same hall.
 Preview job and click Confirm: Here you can quickly inspect the map/s.
 Check to see that all booths appear to be in the correct location and nothing seems abnormal. If acceptable, click confirm
-In summary, The predefined Reference Points tell you where to place the Reference Beacons. The Reference Beacons enable the Guiding Station (once calibrated) to understand its position. The Guiding Station enables the Lionel robot (once calibrated) to understand its position
+The predefined Reference Points tell you where to place the Reference Beacons. The Reference Beacons enable the Guiding Station (once calibrated) to understand its position.
 Your August Robotics representative will have pre-defined two Reference Points for the physical hall
 The Reference Points allow us to “match” the digital plan with the physical hall
 These points will have been physically marked in the hall by August Robotics (e.g. with a nail on the ground)
 Place the two Reference Beacon stands over the two Reference Points
-Laser light (red dot) directly on top of reference point (black cross)
-For each Reference Beacon stand:
-Turn on the laser using the red switch. Adjust the position of the stand so the downward laser shines precisely onto the reference point (see photo on previous page).
+For each Reference Beacon stand: Turn on the laser using the red switch. Adjust the position of the stand so the downward laser shines precisely onto the reference point (see photo on previous page).
 Level the Reference Beacon by using the black levelling screws to centre the round bubble. Mount the blue and green beacon onto the stand
-Check the position of the laser. This may have moved during the above steps. Adjust the position of the stand again so the laser shines precisely onto the reference point
+Adjust the position of the stand again so the laser shines precisely onto the reference point
 Repeat the above two steps until the bubble and the laser are both in the correct place
 Connect a small 12V battery to the Reference Beacon. Take care not to move the Reference Beacon. Turn off the laser using the red switch
 Your August Robotics representative will provide a “Suggested Home Base” for the Guiding Station, a rough area in which you should place the Guiding Station
-From its Home Base, the Guiding Station will “look” for the Reference Beacon so the system can determine the Guiding Station’s precise position
+From its Home Base, the Guiding Station will look for the Reference Beacon so the system can determine the Guiding Station’s precise position
 The Home Base is highlighted digitally on the interface (in blue)
 Place the Guiding Station in the correct orientation. Match the X-Y sticker on the Guiding Station to X-Y direction on the map
 Ensure that all four feet of the Guiding Station are in contact with the ground and that the Guiding Station is stable
 For the Guiding Station:
 Connect a large 24V battery to the Guiding Station’s power cable
 Place a Mesh Router into the holder on the side of the Guiding Station and attach the router power and LAN cable
-Turn on the Guiding Station using the red switch. A red LED light indicates that the Guiding Station is powered on. Make sure the Emergency Stop button is not pressed
+Turn on the Guiding Station using the red switch. A red light indicates that the Guiding Station is powered on. Make sure the Emergency Stop button is not pressed
 Your August Robotics representative will provide a “Suggested Home Base” for the Lionel robot, a rough area in which you should place the robot as its starting position
 The Home Base is the rough area the Guiding Station will “look” to find the Lionel robot so the system can determine Lionel’s position
 The Home Base is highlighted digitally on the interface (in blue)
@@ -198,7 +191,7 @@ Open the cover at the bottom of Lionel to reveal a black and red battery cable. 
 Place a Mesh Router into the holder on the top of Lionel and attach the router power and LAN cable
 Take the Paint Tank containing prepared paint and place it into the compartment on the side of Lionel. Connect the tube on the Paint Tank to the pipe connector in Lionel’s compartment. Ensure the Paint Tank clicks into place. Take care not to damage the fittings.
 Loosen the screw on the right side of Lionel’s nozzle. Add some water to the foam cap of the nozzle – this prevents the nozzle from drying out
-Press the red switch between Lionel’s wheels to switch on Lionel. A red LED means Lionel is powered on.
+Press the red switch between Lionel’s wheels to switch on Lionel. A red light means Lionel is powered on.
 Press the ‘Preload’ button to pump some paint from the Paint Tank to Lionel’s nozzle. Ensure that the tubes are not compressed. Hold the button until the paint flows out of the nozzle in a steady stream. This means the paint is properly loaded
 However, only the Reference Beacons know precisely where they are in the hall
 In the rest of the module, you will  Calibrate the Guiding Station – using the Reference Beacons, the Guiding Station will learn precisely where it is in the hall. Then, calibrate the Lionel robot – using the Guiding Station, the robot will learn precisely where it is in the hall, so it is ready to start
